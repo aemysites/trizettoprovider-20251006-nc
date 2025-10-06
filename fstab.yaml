@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/aemysites/trizettoprovider-20251006-nc/
+    type: markup
