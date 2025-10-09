@@ -1,3 +1,4 @@
+
 /*
  * Copyright 2020 Adobe. All rights reserved.
  * This file is licensed to you under the Apache License, Version 2.0 (the "License");
@@ -9,65 +10,85 @@
  * OF ANY KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
  */
-
 :root {
-  /* colors */
   --background-color: white;
   --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
-
-  /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
-
-  /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
-
-  /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
-
-  /* nav height */
-  --nav-height: 64px;
+  --body-font-family: "Gellix", "Gellix Fallback", "Arial", "sans-serif";
+  --heading-font-family: "Gellix", "Gellix Fallback", "Arial", "sans-serif";
+  --body-font-size-m: 45px;
+  --body-font-size-s: 35px;
+  --body-font-size-xs: 18px;
+  --heading-font-size-xxl: 90px;
+  --heading-font-size-xl: 65px;
+  --heading-font-size-l: 55px;
+  --heading-font-size-m: 45px;
+  --heading-font-size-s: 35px;
+  --heading-font-size-xs: 18px;
+  --nav-height: 177px;
   --header-height: var(--nav-height);
 }
 
 /* fallback fonts */
 @font-face {
-  font-family: roboto-condensed-fallback;
-  size-adjust: 88.82%;
-  src: local('Arial');
+  font-family:"Gellix Fallback";
+  font-style:normal;
+  font-weight:800;
+  src:local("Arial Bold");
+  ascent-override:94.98%;
+  descent-override:20.63%;
+  line-gap-override:0.00%;
+  size-adjust:96.44%;
 }
 
 @font-face {
-  font-family: roboto-fallback;
-  size-adjust: 99.529%;
-  src: local('Arial');
+  font-family:"Gellix Fallback";
+  font-style:normal;
+  font-weight:600;
+  src:local("Arial Bold");
+  ascent-override:94.95%;
+  descent-override:20.63%;
+  line-gap-override:0.00%;
+  size-adjust:96.47%;
 }
 
-@media (width >= 900px) {
-  :root {
-    /* body sizes */
-    --body-font-size-m: 18px;
-    --body-font-size-s: 16px;
-    --body-font-size-xs: 14px;
+@font-face {
+  font-family:"themify Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:93.75%;
+  descent-override:6.25%;
+  line-gap-override:0.00%;
+  size-adjust:100.00%;
+}
 
-    /* heading sizes */
-    --heading-font-size-xxl: 45px;
-    --heading-font-size-xl: 36px;
-    --heading-font-size-l: 28px;
-    --heading-font-size-m: 22px;
-    --heading-font-size-s: 20px;
+@font-face {
+  font-family:"Gellix Fallback";
+  font-style:normal;
+  font-weight:200;
+  src:local("Arial");
+  ascent-override:87.76%;
+  descent-override:19.07%;
+  line-gap-override:0.00%;
+  size-adjust:104.37%;
+}
+
+@media (width>=900px) {
+  :root {
+    --body-font-size-m: 45px;
+    --body-font-size-s: 35px;
+    --body-font-size-xs: 18px;
+    --heading-font-size-xxl: 90px;
+    --heading-font-size-xl: 65px;
+    --heading-font-size-l: 55px;
+    --heading-font-size-m: 45px;
+    --heading-font-size-s: 35px;
     --heading-font-size-xs: 18px;
+    --nav-height: 177px;
   }
 }
 
@@ -89,22 +110,15 @@ header {
   height: var(--nav-height);
 }
 
-header .header,
-footer .footer {
+header .header, footer .footer {
   visibility: hidden;
 }
 
-header .header[data-block-status="loaded"],
-footer .footer[data-block-status="loaded"] {
+header .header[data-block-status="loaded"], footer .footer[data-block-status="loaded"] {
   visibility: visible;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
   font-family: var(--heading-font-family);
@@ -113,25 +127,36 @@ h6 {
   scroll-margin: 40px;
 }
 
-h1 { font-size: var(--heading-font-size-xxl); }
-h2 { font-size: var(--heading-font-size-xl); }
-h3 { font-size: var(--heading-font-size-l); }
-h4 { font-size: var(--heading-font-size-m); }
-h5 { font-size: var(--heading-font-size-s); }
-h6 { font-size: var(--heading-font-size-xs); }
+h1 {
+  font-size: var(--heading-font-size-xxl);
+}
 
-p,
-dl,
-ol,
-ul,
-pre,
-blockquote {
+h2 {
+  font-size: var(--heading-font-size-xl);
+}
+
+h3 {
+  font-size: var(--heading-font-size-l);
+}
+
+h4 {
+  font-size: var(--heading-font-size-m);
+}
+
+h5 {
+  font-size: var(--heading-font-size-s);
+}
+
+h6 {
+  font-size: var(--heading-font-size-xs);
+}
+
+p, dl, ol, ul, pre, blockquote {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
 }
 
-code,
-pre {
+code, pre {
   font-size: var(--body-font-size-s);
 }
 
@@ -143,14 +168,11 @@ pre {
   white-space: pre;
 }
 
-main > div {
+main>div {
   margin: 40px 16px;
 }
 
-input,
-textarea,
-select,
-button {
+input, textarea, select, button {
   font: inherit;
 }
 
@@ -167,8 +189,7 @@ a:hover {
 }
 
 /* buttons */
-a.button:any-link,
-button {
+a.button:any-link, button {
   box-sizing: border-box;
   display: inline-block;
   max-width: 100%;
@@ -190,22 +211,17 @@ button {
   white-space: nowrap;
 }
 
-a.button:hover,
-a.button:focus,
-button:hover,
-button:focus {
+a.button:hover, a.button:focus, button:hover, button:focus {
   background-color: var(--link-hover-color);
   cursor: pointer;
 }
 
-button:disabled,
-button:disabled:hover {
+button:disabled, button:disabled:hover {
   background-color: var(--light-color);
   cursor: unset;
 }
 
-a.button.secondary,
-button.secondary {
+a.button.secondary, button.secondary {
   background-color: unset;
   border: 2px solid currentcolor;
   color: var(--text-color);
@@ -229,29 +245,28 @@ main img {
 }
 
 /* sections */
-main > .section {
+main>.section {
   margin: 40px 0;
 }
 
-main > .section > div {
+main>.section>div {
   max-width: 1200px;
   margin: auto;
   padding: 0 24px;
 }
 
-main > .section:first-of-type {
+main>.section:first-of-type {
   margin-top: 0;
 }
 
-@media (width >= 900px) {
-  main > .section > div {
+@media (width>=900px) {
+  main>.section>div {
     padding: 0 32px;
   }
 }
 
 /* section metadata */
-main .section.light,
-main .section.highlight {
+main .section.light, main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
@@ -259,4 +274,360 @@ main .section.highlight {
 
 .section.hidden {
   display: none;
+}
+
+.section.section-1 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/TPS_Mktpl_Header.jpg?id=14092") no-repeat scroll 100% 50% / cover padding-box border-box;
+}
+
+.section.section-2 {
+  background: rgb(0 0 99) none repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-3 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Mktpl_TestimonialImage.jpg?id=14095") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-4 {
+  background: rgb(242 242 242) none repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-5 {
+  background: rgb(0 0 72) none repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-6 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/ARM-NSA_Image.jpg?id=14975") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-7 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/DenialRecovery_Header.jpg?id=15304") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-8 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Quote_BGImage1.jpg?id=13340") repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-9 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/CovidComp_blogimage.jpg?id=13809") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-10 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/BehavioralHealth_BlogImage-2.jpg?id=14064") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-11 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/TPS_NoSurprise_Header.jpg?id=14722") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-12 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/2024/01/OurStory_Header.jpg?id=15421") repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-13 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/TPS_Mktpl_Header-1.jpg?id=14204") no-repeat scroll 100% 50% / cover padding-box border-box;
+}
+
+.section.section-14 {
+  background: rgb(255 255 255) none repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-15 {
+  background: rgb(0 51 160) none repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-16 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/EventsWebinars_Header.jpg?id=13635") no-repeat scroll 100% 50% / cover padding-box border-box;
+}
+
+.section.section-17 {
+  background: rgb(218 218 218) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-18 {
+  background: rgb(247 247 247) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-19 {
+  background: rgb(239 239 239 / 25%) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-20 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/RevenueRecoveryServices_banner.jpg?id=15384") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-21 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/blog-roadmap-for-practice-growth-in-2022.jpg?id=14760") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-22 {
+  background: rgb(242 242 242) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-23 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/NPCred_Blog.jpg?id=14487") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-24 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/TPS_Leadership_Header.jpg?id=13574") no-repeat scroll 100% 50% / cover padding-box border-box;
+}
+
+.section.section-25 {
+  background: rgb(0 0 72) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-26 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/WEDI-NSA_Blog.jpg?id=14956") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-27 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/RejectionDenialPrevention_Header.jpg?id=15307") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-28 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Eligibility-header.jpg?id=15289") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-29 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/IncompletePayerCred_BlogImage.jpg?id=14263") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-30 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/SutterCS_Blog2.jpg?id=14852") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-31 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Prior-Authorization_Header.jpg?id=15315") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-32 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/ClosedPanels_Cred_Resource.jpg?id=15009") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-33 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Patient-Payments_banner.jpg?id=15287") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-34 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/RCM-Post-Covid-strategy-campaign.jpg?id=14111") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-35 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Blog-Post_TPS-Out-of-Network-Credentialing_Display-Ads_1200x628-copy-2.jpg?id=14692") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-36 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Thought_leadership_Outsourcing_RCM_BLOG-3.jpg?id=15217") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-37 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/RevenueCycleManagementServices_Header.jpg?id=15352") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-38 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/StaffingShortages_Blog.jpg?id=14832") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-39 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/2024/01/Demo-Request_Header.jpg?id=15408") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-40 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/WorkersComp_Blog.jpg?id=14532") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-41 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/UTHealthCS_Blog.jpg?id=15014") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-42 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/ClaimsManagement_Header.jpg?id=15341") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-43 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/2025-TPS-Advanced-Claim-Editing-Landingv2.jpg?id=15713") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-44 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Coding_Header-1.jpg?id=15342") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-45 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Digital-First-Patient-Payments_Resource.jpg?id=14997") no-repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-46 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/ARMPayviders_Resource.jpg?id=15026") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-47 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/DenialsCentralHeader2.jpg?id=15623") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-48 {
+  background: rgb(46 48 142) none repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-49 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/2024/06/StaryBackground2.jpg?id=15575") repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-50 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/EvolutionTelemedicine_BlogImage.jpg?id=13703") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-51 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/HospitalsCHC_Header.jpg?id=13559") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-52 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Payers_Header.jpg?id=13481") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-53 {
+  background: rgb(50 141 255) none repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-54 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/BillingServices_Header.jpg?id=15351") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-55 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/RejectionAndDenialsManagement_Header.jpg?id=15300") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-56 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/HealthcareInsider_Header.jpg?id=13415") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-57 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/HealthSystem_Header.jpg?id=13560") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-58 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Credentialing_Header-1.jpg?id=15318") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-59 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/PatientResponsibility_Header.jpg?id=15309") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-60 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/NewPriceTransparencyRule_Blog.jpg?id=14346") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-61 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Billing_Header.jpg?id=14253") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-62 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/NoSurpriseAct_Blog.jpg?id=14633") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-63 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/EnterpriseRec_Blog.jpg?id=14734") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-64 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/MCD-RDMNTN_Blog.jpg?id=15226") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-65 {
+  background: rgb(0 0 0 / 0%) url("https://trizettoprovdr.wpengine.com/wp-content/uploads/TPS-Becker_Blog.jpg?id=12819") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-66 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/ContractManagement_Header.jpg?id=15323") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-67 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/ShareableBlog_Blog.jpg?id=14589") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-68 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/AnalyticsArticle_Image.jpg?id=14715") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-69 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/VSP-Article_Blog.jpg?id=14793") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-70 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Cae_BlogImage.jpg?id=13667") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-71 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/99P_Header.jpg?id=13570") no-repeat scroll 100% 50% / cover padding-box border-box;
+}
+
+.section.section-72 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/ClaimsProcessing-Banner.jpg?id=15242") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-73 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/CAQH-Index-Overview_Blog.jpg?id=14578") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-74 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/PatientEngagement_Header.jpg?id=15371") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-75 {
+  background: rgb(0 0 0 / 0%) linear-gradient(115deg, rgb(46 48 142) 0%, rgb(6 199 204) 100%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-76 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/PECOS_CredArticle_BlogImage.jpg?id=15099") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-77 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/MedicareAdv_Blog.jpg?id=14076") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-78 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/AnalyticsStaffing_Blog.jpg?id=14874") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-79 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Assoc_Year_Blog.jpg?id=14406") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-80 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/EMT-Credentialing_Blog.jpg?id=14245") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-81 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/SolutionHeader_Anesthesia.jpg?id=14905") repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-82 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Quote_BGImage1.jpg?id=15250") repeat scroll 0% 0% / cover padding-box border-box;
+}
+
+.section.section-83 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/CAQH_BlogImage.jpg?id=13814") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-84 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/4Strategies_Blog-1.jpg?id=14584") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-85 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/Claim-Payments_Header.jpg?id=15347") no-repeat scroll 0 0 / cover padding-box border-box;
+}
+
+.section.section-86 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/NPs_blog.jpg?id=14650") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-87 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/CredRPA_Image.jpg?id=14928") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-88 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/FY21-2705_RCMS-Blog-Post-Pandemic_1244x646_Display-Banners.jpg?id=14538") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-89 {
+  background: rgb(0 0 0 / 0%) url("https://www.trizettoprovider.com/wp-content/uploads/C2FO-Blog-article-banner1.png?id=14858") no-repeat scroll 50% 50% / cover padding-box border-box;
 }
