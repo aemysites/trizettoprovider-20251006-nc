@@ -1,8 +1,62 @@
 {
   "templates": [
     {
-      "name": "'Corporate Info Page'",
+      "name": "Corporate Multi-Purpose Template",
       "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.trizettoprovider.com/who-we-are/leadership",
+          "uuid": "2751c11b708fc09ec0315e06c98777613a649d83"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources/payer-list",
+          "uuid": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/analytics",
+          "uuid": "f7df8ebe2d48ff08b6bdaf162347078820a420b9"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/credentialing",
+          "uuid": "9ad188a119801272a0bb2e23349c1e8e3730ab30"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/contract-management",
+          "uuid": "c059405f851ccfe79d47baa2ad0edeef1b89e136"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
+          "uuid": "53f9499e96f90d75985c11ab29ab1dcd050a15bb"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
+          "uuid": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/health-systems",
+          "uuid": "97964df3ccee53761c35d671779b0a9cf8fdec1d"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management",
+          "uuid": "704a7b431c58608afcd929db81e3a1920c70b7de"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
+          "uuid": "8e51b48449f6ed4607daf66ea01316e31401cf8b"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/hospitals-and-health-centers",
+          "uuid": "a0d5c56c006d8f0e2716e5e2a7b63a23de658059"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement",
+          "uuid": "db9e9238b7199b945ba710db8ee7f1b3aa2a9d4f"
+        }
+      ]
+    },
+    {
+      "name": "'Corporate Overview'",
+      "cluster": 2,
       "pages": [
         {
           "url": "https://www.trizettoprovider.com/opt-out-preferences",
@@ -121,16 +175,16 @@
           "uuid": "6acc7682742b04fa5c438a70173ed711eda61ebd"
         },
         {
-          "url": "https://www.trizettoprovider.com/cybersecurity-best-practices",
-          "uuid": "d858149e065de2cc31b03155d84ec8cdf57691c6"
-        },
-        {
           "url": "https://www.trizettoprovider.com/is-your-surgical-charting-as-paperless-as-you-think",
           "uuid": "c1566ba4d258b0b023dbd94af936aefc74333fa3"
         },
         {
           "url": "https://www.trizettoprovider.com/help-improve-cash-flow-and-drive-revenue-with-web-based-analytics",
           "uuid": "c22740401f545e7c032baa6e529ff9d7132962ed"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/cybersecurity-best-practices",
+          "uuid": "d858149e065de2cc31b03155d84ec8cdf57691c6"
         },
         {
           "url": "https://www.trizettoprovider.com/delivering-peace-of-mind-for-emt-credentialing",
@@ -145,40 +199,12 @@
           "uuid": "3ab0708e44cb5f0c47dcd320c9a45e2871ae43b2"
         },
         {
-          "url": "https://www.trizettoprovider.com/4-strategies-to-simplify-patient-payments",
-          "uuid": "f7c467ca9218ed725836717d94f2a3e557711550"
-        },
-        {
           "url": "https://www.trizettoprovider.com/are-you-getting-the-most-out-of-your-credentialing",
           "uuid": "515bbd76b1ce16ed44d20ca80034e1f531e271ef"
         },
         {
-          "url": "https://www.trizettoprovider.com/anesthesia-billing-software-services-customer-data-protection-methodology",
-          "uuid": "d727f7f6d70ea93f943e8589b9bd57de8c02be27"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/care-anywhere-is-here-to-stay-heres-how-to-make-it-mainstream",
-          "uuid": "c52d37922f91f1367b86cdeb9d4fbb7c7214e6c9"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/data-deadlines-the-ongoing-importance-of-credentials",
-          "uuid": "f38bcd9b13f8faaab6870461709163eafdb18297"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/full-practice-authority-for-nps-continues-to-grow",
-          "uuid": "f82b924046d6724b4dbe0b8373f06e0c0bfef5d5"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/effective-revenue-cycle-strategies-for-practice-management-post-pandemic",
-          "uuid": "4df0514d1c44fe556f0fb692fe1487107d1d014f"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/healthcare-huddle-how-to-manage-telemedicine-new-challenges-during-the-new-normal",
-          "uuid": "0b3b17ed51f6e24b17857a319e1c64ecf9db4c90"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/healthcare-loses-billions-due-to-over-reliance-on-manual-tasks",
-          "uuid": "db1dd7600b3ca412bb04119e05efbff491f21941"
+          "url": "https://www.trizettoprovider.com/4-strategies-to-simplify-patient-payments",
+          "uuid": "f7c467ca9218ed725836717d94f2a3e557711550"
         },
         {
           "url": "https://www.trizettoprovider.com/helping-our-clients-starts-from-within-an-interview-with-tps-associate-of-the-year-grant-krebs",
@@ -197,117 +223,91 @@
           "uuid": "fb561ceffcb99f960572acf45a6961f7f922a644"
         },
         {
-          "url": "https://www.trizettoprovider.com/preventing-revenue-loss-through-effective-resource-management",
-          "uuid": "5a55dfbfd377d9366e78aacca4e881b76e497f28"
+          "url": "https://www.trizettoprovider.com/data-deadlines-the-ongoing-importance-of-credentials",
+          "uuid": "f38bcd9b13f8faaab6870461709163eafdb18297"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/full-practice-authority-for-nps-continues-to-grow",
+          "uuid": "f82b924046d6724b4dbe0b8373f06e0c0bfef5d5"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/anesthesia-billing-software-services-customer-data-protection-methodology",
+          "uuid": "d727f7f6d70ea93f943e8589b9bd57de8c02be27"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/care-anywhere-is-here-to-stay-heres-how-to-make-it-mainstream",
+          "uuid": "c52d37922f91f1367b86cdeb9d4fbb7c7214e6c9"
         },
         {
           "url": "https://www.trizettoprovider.com/physicians-share-fears-surrounding-good-faith-estimates",
           "uuid": "302e167d168196b8b546eab49834eec5b5783939"
         },
         {
-          "url": "https://www.trizettoprovider.com/new-no-surprise-act-tackles-unexpected-medical-bills",
-          "uuid": "a466deeaf68a6191d9dad73c9ce7d57ca6d3bcef"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/the-new-price-transparency-rule-what-it-means-for-the-patient-experience-in-2021",
-          "uuid": "a2bfc0ba152a9f911832ca42c96e345e1a89ba27"
+          "url": "https://www.trizettoprovider.com/preventing-revenue-loss-through-effective-resource-management",
+          "uuid": "5a55dfbfd377d9366e78aacca4e881b76e497f28"
         },
         {
           "url": "https://www.trizettoprovider.com/vsp-strategies-for-enrolling-with-the-nations-largest-vision-payer",
           "uuid": "c4efe116a59b3841dc70aa141f8efc655b85abdc"
         },
         {
-          "url": "https://www.trizettoprovider.com/what-payviders-need-to-know-about-maximizing-reimbursement",
-          "uuid": "73d12d579bc6cc08e37da8e296538eba17792f5a"
+          "url": "https://www.trizettoprovider.com/the-new-price-transparency-rule-what-it-means-for-the-patient-experience-in-2021",
+          "uuid": "a2bfc0ba152a9f911832ca42c96e345e1a89ba27"
         },
         {
           "url": "https://www.trizettoprovider.com/the-evolution-of-telemedicine",
           "uuid": "7bb4ffe8ffaa24b4cd00f374c85cec56bf0fbef2"
         },
         {
-          "url": "https://www.trizettoprovider.com/the-changing-medicare-landscape",
-          "uuid": "e9f194f93489c7d3f75586aff23fed0ff38eb15b"
+          "url": "https://www.trizettoprovider.com/the-healthcare-providers-roadmap-for-practice-growth-in-2022",
+          "uuid": "1e96d1dce8eddcaeadd89b7d1906d3b0b6087ef3"
         },
         {
           "url": "https://www.trizettoprovider.com/sutter-health-trizetto-provider-solutions",
           "uuid": "410abda3a4107b86083ac67b9327174eb08f9925"
         },
         {
-          "url": "https://www.trizettoprovider.com/the-healthcare-providers-roadmap-for-practice-growth-in-2022",
-          "uuid": "1e96d1dce8eddcaeadd89b7d1906d3b0b6087ef3"
-        }
-      ]
-    },
-    {
-      "name": "'Interactive Tool Page'",
-      "cluster": 2,
-      "pages": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
-          "uuid": "07a37b6d9b6ebed011fcef9bb1ad9510fb8ebd02"
+          "url": "https://www.trizettoprovider.com/new-no-surprise-act-tackles-unexpected-medical-bills",
+          "uuid": "a466deeaf68a6191d9dad73c9ce7d57ca6d3bcef"
         },
         {
-          "url": "https://www.trizettoprovider.com/solutions/credentialing/billing-services",
-          "uuid": "a36289ed5414a084e44e68a3e604ff9fcbcc2a3a"
+          "url": "https://www.trizettoprovider.com/effective-revenue-cycle-strategies-for-practice-management-post-pandemic",
+          "uuid": "4df0514d1c44fe556f0fb692fe1487107d1d014f"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/healthcare-huddle-how-to-manage-telemedicine-new-challenges-during-the-new-normal",
+          "uuid": "0b3b17ed51f6e24b17857a319e1c64ecf9db4c90"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/healthcare-loses-billions-due-to-over-reliance-on-manual-tasks",
+          "uuid": "db1dd7600b3ca412bb04119e05efbff491f21941"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/what-payviders-need-to-know-about-maximizing-reimbursement",
+          "uuid": "73d12d579bc6cc08e37da8e296538eba17792f5a"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/the-changing-medicare-landscape",
+          "uuid": "e9f194f93489c7d3f75586aff23fed0ff38eb15b"
         }
       ]
     },
     {
-      "name": "'Corporate Multi-purpose Template'",
+      "name": "'Corporate Overview'",
       "cluster": 3,
       "pages": [
         {
-          "url": "https://www.trizettoprovider.com/who-we-are/leadership",
-          "uuid": "2751c11b708fc09ec0315e06c98777613a649d83"
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
+          "uuid": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f"
         },
         {
-          "url": "https://www.trizettoprovider.com/resources/payer-list",
-          "uuid": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/analytics",
-          "uuid": "f7df8ebe2d48ff08b6bdaf162347078820a420b9"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/credentialing",
-          "uuid": "9ad188a119801272a0bb2e23349c1e8e3730ab30"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/contract-management",
-          "uuid": "c059405f851ccfe79d47baa2ad0edeef1b89e136"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
-          "uuid": "53f9499e96f90d75985c11ab29ab1dcd050a15bb"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
-          "uuid": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/who-we-serve/health-systems",
-          "uuid": "97964df3ccee53761c35d671779b0a9cf8fdec1d"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management",
-          "uuid": "704a7b431c58608afcd929db81e3a1920c70b7de"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
-          "uuid": "8e51b48449f6ed4607daf66ea01316e31401cf8b"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/who-we-serve/hospitals-and-health-centers",
-          "uuid": "a0d5c56c006d8f0e2716e5e2a7b63a23de658059"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/patient-engagement",
-          "uuid": "db9e9238b7199b945ba710db8ee7f1b3aa2a9d4f"
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
+          "uuid": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b"
         }
       ]
     },
     {
-      "name": "'Corporate Multi-Page Template'",
+      "name": "'Corporate Multipurpose'",
       "cluster": 4,
       "pages": [
         {
@@ -329,45 +329,21 @@
       ]
     },
     {
-      "name": "Form Directory Template",
+      "name": "'Calculator Landing Page'",
       "cluster": 5,
       "pages": [
         {
-          "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
-          "uuid": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81"
+          "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
+          "uuid": "07a37b6d9b6ebed011fcef9bb1ad9510fb8ebd02"
         },
         {
-          "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
-          "uuid": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/thetarho",
-          "uuid": "c83221c842bf9409f1304f243a3f2f6c0cc01082"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/ohmd",
-          "uuid": "77eb57e2d7bdba0319275b5cbfb53e1c60675325"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
-          "uuid": "ab8b662df43a6bba83e64201a55d8025569ad7e7"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
-          "uuid": "bdc8d6c1aea85252d97859080d00309e5a816e71"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
-          "uuid": "001600b6fbb8ce92c976d26ccb38027435d9169f"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/paa",
-          "uuid": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f"
+          "url": "https://www.trizettoprovider.com/solutions/credentialing/billing-services",
+          "uuid": "a36289ed5414a084e44e68a3e604ff9fcbcc2a3a"
         }
       ]
     },
     {
-      "name": "'Corporate Multi-Section Layout'",
+      "name": "Corporate Multi-Section Layout",
       "cluster": 6,
       "pages": [
         {
@@ -389,7 +365,7 @@
       ]
     },
     {
-      "name": "'Calculator Tool Page'",
+      "name": "ROI Calculator Page",
       "cluster": 7,
       "pages": [
         {
@@ -431,7 +407,7 @@
       ]
     },
     {
-      "name": "'Corporate Multi-Section Layout'",
+      "name": "'Corporate Multi-Section Template'",
       "cluster": 10,
       "pages": [
         {
@@ -449,16 +425,40 @@
       ]
     },
     {
-      "name": "'Corporate Overview'",
+      "name": "'Service Directory Page'",
       "cluster": 11,
       "pages": [
         {
-          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
-          "uuid": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f"
+          "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
+          "uuid": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81"
         },
         {
-          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
-          "uuid": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b"
+          "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
+          "uuid": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/thetarho",
+          "uuid": "c83221c842bf9409f1304f243a3f2f6c0cc01082"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/ohmd",
+          "uuid": "77eb57e2d7bdba0319275b5cbfb53e1c60675325"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
+          "uuid": "bdc8d6c1aea85252d97859080d00309e5a816e71"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
+          "uuid": "ab8b662df43a6bba83e64201a55d8025569ad7e7"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
+          "uuid": "001600b6fbb8ce92c976d26ccb38027435d9169f"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/paa",
+          "uuid": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f"
         }
       ]
     },
