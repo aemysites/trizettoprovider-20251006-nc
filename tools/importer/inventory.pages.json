@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "'Corporate Info Page'",
+      "name": "'Corporate Overview'",
       "cluster": 1,
       "pages": [
         {
@@ -239,7 +239,7 @@
       ]
     },
     {
-      "name": "'Interactive Tool Page'",
+      "name": "ROI Calculator Page",
       "cluster": 2,
       "pages": [
         {
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "name": "'Corporate Multi-purpose Template'",
+      "name": "Corporate Multi-Section Template",
       "cluster": 3,
       "pages": [
         {
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "name": "'Corporate Multi-Page Template'",
+      "name": "'Corporate Website Template'",
       "cluster": 4,
       "pages": [
         {
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "name": "Form Directory Template",
+      "name": "'Service Dashboard'",
       "cluster": 5,
       "pages": [
         {
@@ -367,7 +367,7 @@
       ]
     },
     {
-      "name": "'Corporate Multi-Section Layout'",
+      "name": "Corporate Multi-Section Template",
       "cluster": 6,
       "pages": [
         {
@@ -389,7 +389,7 @@
       ]
     },
     {
-      "name": "'Calculator Tool Page'",
+      "name": "ROI Calculator Page",
       "cluster": 7,
       "pages": [
         {
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "name": "'Corporate Overview'",
+      "name": "'Portfolio Showcase'",
       "cluster": 9,
       "pages": [
         {
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "name": "'Corporate Multi-Section Layout'",
+      "name": "'Corporate Multi-Section Template'",
       "cluster": 10,
       "pages": [
         {
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "name": "'Corporate Overview'",
+      "name": "'Business Overview'",
       "cluster": 11,
       "pages": [
         {
@@ -463,7 +463,7 @@
       ]
     },
     {
-      "name": "It seems the image is too distorted or unclear to",
+      "name": "It is not possible to analyze or identify a descriptive",
       "cluster": 12,
       "pages": [
         {
