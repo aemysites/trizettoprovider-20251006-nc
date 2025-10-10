@@ -1,4 +1,5 @@
-const wrapperParent = document.querySelector('.wpb-wrapper');
+(() => {
+  const wrapperParent = document.querySelector('.wpb-wrapper');
 if (wrapperParent) {
   const cardRows = wrapperParent.querySelectorAll(':scope > div:not(:first-child):not(.vc_empty_space)');
   if (cardRows.length) {
@@ -8,3 +9,4 @@ if (wrapperParent) {
     cardRows.forEach(div => wrapper.appendChild(div));
   }
 }
+})();
