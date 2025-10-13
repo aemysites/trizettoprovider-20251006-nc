@@ -3733,6 +3733,55 @@
           "uuid": "c83221c8-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-are/our-story",
+          "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
+          "uuid": "12a06b00-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-12"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/partnermarketplace",
+          "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
+          "uuid": "13951016-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-13"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources/events",
+          "urlHash": "17540827dbebd28a8f1df63026a2861852ec983e",
+          "uuid": "17540827-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-16"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-are/leadership",
+          "urlHash": "2751c11b708fc09ec0315e06c98777613a649d83",
+          "uuid": "2751c11b-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-24"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/request-demo",
+          "urlHash": "5c5c9581d9d85c41a3c24ebdd59669edd8f9ebf4",
+          "uuid": "5c5c9581-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-39"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources/healthcare-insider",
+          "urlHash": "8e699a53251fd7b358578768abd9f7b666c41582",
+          "uuid": "8e699a53-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-56"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/99-percent-club",
+          "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
+          "uuid": "c9f166ca-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-71"
         }
       ]
     },
@@ -4430,64 +4479,6 @@
           "urlHash": "a36289ed5414a084e44e68a3e604ff9fcbcc2a3a",
           "uuid": "a36289ed-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 24,
-      "source": "Hero",
-      "target": "Hero (hero24)",
-      "key": "hero24",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/who-we-are/our-story",
-          "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
-          "uuid": "12a06b00-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-12"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/partnermarketplace",
-          "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
-          "uuid": "13951016-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-13"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resources/events",
-          "urlHash": "17540827dbebd28a8f1df63026a2861852ec983e",
-          "uuid": "17540827-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-16"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/who-we-are/leadership",
-          "urlHash": "2751c11b708fc09ec0315e06c98777613a649d83",
-          "uuid": "2751c11b-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-24"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/request-demo",
-          "urlHash": "5c5c9581d9d85c41a3c24ebdd59669edd8f9ebf4",
-          "uuid": "5c5c9581-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-39"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resources/healthcare-insider",
-          "urlHash": "8e699a53251fd7b358578768abd9f7b666c41582",
-          "uuid": "8e699a53-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-56"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/99-percent-club",
-          "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
-          "uuid": "c9f166ca-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-71"
         }
       ]
     },
