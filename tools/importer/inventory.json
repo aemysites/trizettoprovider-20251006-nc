@@ -4761,6 +4761,27 @@
           "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
           "uuid": "bd37bec5-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/eligibility",
+          "urlHash": "398435d97f0b8d492d0b9b9cca314fe3864b28d3",
+          "uuid": "398435d9-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-28"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/payer-underpayments-steps-healthcare-leaders-can-take-to-increase-revenue",
+          "urlHash": "a71c8b192c289161cbef761e4b271ee762a5a9a2",
+          "uuid": "a71c8b19-05-54f90bb5bf828d597948f7d67da22fe33498c3d2",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]",
+          "section": "section-15"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/anesthesia-billing-software",
+          "urlHash": "f1112e394e7c1664fa9ca084adc3dbcb33819e94",
+          "uuid": "f1112e39-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-81"
         }
       ]
     },
@@ -6454,36 +6475,6 @@
           "uuid": "769076f3-07-7a23a236b668e3a7208203f36d2fa7271b62249c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
           "section": "section-4"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 53,
-      "source": "Hero",
-      "target": "Hero (hero53)",
-      "key": "hero53",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/eligibility",
-          "urlHash": "398435d97f0b8d492d0b9b9cca314fe3864b28d3",
-          "uuid": "398435d9-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-28"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/payer-underpayments-steps-healthcare-leaders-can-take-to-increase-revenue",
-          "urlHash": "a71c8b192c289161cbef761e4b271ee762a5a9a2",
-          "uuid": "a71c8b19-05-54f90bb5bf828d597948f7d67da22fe33498c3d2",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]",
-          "section": "section-15"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/anesthesia-billing-software",
-          "urlHash": "f1112e394e7c1664fa9ca084adc3dbcb33819e94",
-          "uuid": "f1112e39-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-81"
         }
       ]
     },
