@@ -3675,7 +3675,7 @@
       "name": "Hero",
       "cluster": 18,
       "source": "Hero",
-      "target": "Hero (hero18)",
+      "target": "Hero (heroSimple)",
       "key": "hero18",
       "instances": [
         {
