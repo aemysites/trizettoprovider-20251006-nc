@@ -3700,89 +3700,6 @@
     },
     {
       "name": "Hero",
-      "cluster": 14,
-      "source": "Hero",
-      "target": "Hero (hero14)",
-      "key": "hero14",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
-          "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
-          "uuid": "0ee843da-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-11"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/five-tips-to-digitally-transform-your-patient-financial-engagement-strategy",
-          "urlHash": "214a84af5f409b7474e388c33e8a2a4cd4f87b0c",
-          "uuid": "214a84af-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
-          "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
-          "uuid": "2dae66a7-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/coding-denials-understanding-common-culprits-and-winning-strategies-to-avoid-them",
-          "urlHash": "3767fa2c3bd51348b6845e980e3b64fc188c1129",
-          "uuid": "3767fa2c-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
-          "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
-          "uuid": "43264845-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
-          "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
-          "uuid": "61161d0c-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
-          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
-          "uuid": "788a7f1b-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-47"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/how-to-maximize-your-workers-compensation-reimbursement-revenue",
-          "urlHash": "8f76baec2a14d002b3d1264cf52a8dc3e63d182e",
-          "uuid": "8f76baec-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/optimizing-optometry-revenue-integrating-tech-for-better-practice-performance",
-          "urlHash": "9c455615bfd994d3667f57bebfff563314307154",
-          "uuid": "9c455615-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/strategies-to-prevent-coding-denials-and-increase-revenues",
-          "urlHash": "a22db563714825ad108779f91e01418862cdf87b",
-          "uuid": "a22db563-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/driving-dollars-through-data-an-innovative-way-to-improve-self-debt-collections",
-          "urlHash": "b8e2b6be342da74b6e6551fe15f5a0b6baa75c98",
-          "uuid": "b8e2b6be-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/best-practices-for-your-revenue-cycle-fueled-by-analytics",
-          "urlHash": "fbf0229a93de0bb2711ac387907ff30bdba29798",
-          "uuid": "fbf0229a-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
       "cluster": 15,
       "source": "Hero",
       "target": "Hero (hero15)",
@@ -4767,6 +4684,80 @@
           "uuid": "aafd6cb8-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
           "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
+          "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
+          "uuid": "0ee843da-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-11"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/five-tips-to-digitally-transform-your-patient-financial-engagement-strategy",
+          "urlHash": "214a84af5f409b7474e388c33e8a2a4cd4f87b0c",
+          "uuid": "214a84af-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
+          "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
+          "uuid": "2dae66a7-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/coding-denials-understanding-common-culprits-and-winning-strategies-to-avoid-them",
+          "urlHash": "3767fa2c3bd51348b6845e980e3b64fc188c1129",
+          "uuid": "3767fa2c-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
+          "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
+          "uuid": "43264845-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
+          "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
+          "uuid": "61161d0c-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
+          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
+          "uuid": "788a7f1b-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-47"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/how-to-maximize-your-workers-compensation-reimbursement-revenue",
+          "urlHash": "8f76baec2a14d002b3d1264cf52a8dc3e63d182e",
+          "uuid": "8f76baec-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/optimizing-optometry-revenue-integrating-tech-for-better-practice-performance",
+          "urlHash": "9c455615bfd994d3667f57bebfff563314307154",
+          "uuid": "9c455615-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/strategies-to-prevent-coding-denials-and-increase-revenues",
+          "urlHash": "a22db563714825ad108779f91e01418862cdf87b",
+          "uuid": "a22db563-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/driving-dollars-through-data-an-innovative-way-to-improve-self-debt-collections",
+          "urlHash": "b8e2b6be342da74b6e6551fe15f5a0b6baa75c98",
+          "uuid": "b8e2b6be-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/best-practices-for-your-revenue-cycle-fueled-by-analytics",
+          "urlHash": "fbf0229a93de0bb2711ac387907ff30bdba29798",
+          "uuid": "fbf0229a-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
