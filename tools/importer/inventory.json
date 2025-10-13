@@ -3510,6 +3510,12 @@
           "urlHash": "fbf0229a93de0bb2711ac387907ff30bdba29798",
           "uuid": "fbf0229a-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/finding-the-formula-for-denials-webcast",
+          "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
+          "uuid": "bd37bec5-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -6556,21 +6562,6 @@
           "uuid": "788a7f1b-17-2dbd45f01a1d67fc910b73fadb41b8f65de52bb7",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[16]",
           "section": "section-49"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 56,
-      "source": "Hero",
-      "target": "Hero (hero56)",
-      "key": "hero56",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/finding-the-formula-for-denials-webcast",
-          "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
-          "uuid": "bd37bec5-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
