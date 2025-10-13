@@ -5609,7 +5609,7 @@
       "name": "Hero",
       "cluster": 38,
       "source": "Hero",
-      "target": "Hero (CTA)",
+      "target": "Hero (CTA) (heroCTAAlignCenter)",
       "key": "hero38",
       "instances": [
         {
