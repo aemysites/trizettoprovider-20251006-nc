@@ -3265,7 +3265,7 @@
       "name": "Hero",
       "cluster": 14,
       "source": "Hero",
-      "target": "Hero (hero14)",
+      "target": "Hero (heroAlignLeft)",
       "key": "hero14",
       "instances": [
         {
