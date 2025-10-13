@@ -6643,6 +6643,19 @@
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
+    },
+    {
+      "name": "new",
+      "cluster": 63,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
+          "urlHash": "07a37b6d9b6ebed011fcef9bb1ad9510fb8ebd02",
+          "uuid": "07a37b6d-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]",
+          "section": "section-5"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -6665,13 +6678,6 @@
       "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
       "uuid": "001600b6-09-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
-      "urlHash": "07a37b6d9b6ebed011fcef9bb1ad9510fb8ebd02",
-      "uuid": "07a37b6d-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
-      "xpath": "/html[1]/body[1]/main[1]",
-      "section": "section-5"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
