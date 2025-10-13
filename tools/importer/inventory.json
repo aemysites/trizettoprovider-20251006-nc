@@ -5799,7 +5799,7 @@
       "name": "Hero",
       "cluster": 47,
       "source": "Hero",
-      "target": "Hero (hero47)",
+      "target": "Hero",
       "key": "hero47",
       "instances": [
         {
