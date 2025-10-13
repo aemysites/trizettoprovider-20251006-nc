@@ -6723,6 +6723,18 @@
           "section": "section-2"
         }
       ]
+    },
+    {
+      "name": "new",
+      "cluster": 68,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
+          "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
+          "uuid": "0ee843da-47-7f2b48272b5c2fb74456a4fa444ad4e51f989a83",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -7025,12 +7037,6 @@
       "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
       "uuid": "0ee843da-46-42a88bbb4b4bfaf0e62c59966dcc0edc8d1cb223",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[2]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
-      "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
-      "uuid": "0ee843da-47-7f2b48272b5c2fb74456a4fa444ad4e51f989a83",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
