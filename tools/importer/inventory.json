@@ -6689,6 +6689,19 @@
         }
       ],
       "target": "Hero (CTA) (alignCenter)"
+    },
+    {
+      "name": "new",
+      "cluster": 66,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
+          "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
+          "uuid": "001600b6-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -6698,13 +6711,6 @@
       "uuid": "001600b6-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
       "section": "section-2"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
-      "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
-      "uuid": "001600b6-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
