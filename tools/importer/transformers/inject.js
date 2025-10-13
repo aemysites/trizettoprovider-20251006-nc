@@ -11,4 +11,9 @@
       cardRows.forEach(div => wrapper.appendChild(div));
     }
   });
+
+  const cookiesOverviewElement = document.getElementById('cmplz-cookies-overview');
+  if (cookiesOverviewElement) {
+    cookiesOverviewElement.classList.add('blu-det-container');
+  }
 })();
