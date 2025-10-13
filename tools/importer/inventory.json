@@ -6490,7 +6490,7 @@
       "name": "Hero",
       "cluster": 53,
       "source": "Hero",
-      "target": "Hero (hero53)",
+      "target": "Hero (heroAlignLeft)",
       "key": "hero53",
       "instances": [
         {
