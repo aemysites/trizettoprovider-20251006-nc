@@ -4508,7 +4508,7 @@
       "name": "Hero",
       "cluster": 24,
       "source": "Hero",
-      "target": "Hero (hero24)",
+      "target": "Hero (heroBasic)",
       "key": "hero24",
       "instances": [
         {
