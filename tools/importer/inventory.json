@@ -4572,6 +4572,146 @@
           "urlHash": "51efdacac27563a6539b294c70b65d71e8441ab2",
           "uuid": "51efdaca-08-6ebe87a934492f705adce613d30b7be5ac205d22",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
+          "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
+          "uuid": "0b0cc60e-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/partnermarketplace",
+          "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
+          "uuid": "13951016-03-e571244482374834ab8d382213b3c6a4dae68844",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/revenue-recovery-services",
+          "urlHash": "1d30749a74896874dd3f96bb8f9115d85b680626",
+          "uuid": "1d30749a-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-20"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
+          "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
+          "uuid": "37c4b460-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-27"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/prior-authorization",
+          "urlHash": "41ea6fc55d78c481eafeb315342aa0a7a1b12d80",
+          "uuid": "41ea6fc5-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-31"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/patient-payments",
+          "urlHash": "4d858754ffa08acc4b4d3ebddccfd5a05c5e8681",
+          "uuid": "4d858754-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-33"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
+          "urlHash": "53f9499e96f90d75985c11ab29ab1dcd050a15bb",
+          "uuid": "53f9499e-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-37"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management",
+          "urlHash": "704a7b431c58608afcd929db81e3a1920c70b7de",
+          "uuid": "704a7b43-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-42"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management/advanced-claim-editing",
+          "urlHash": "70cb491b41de4b2b872eaa24c98a020fdf279c19",
+          "uuid": "70cb491b-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-43"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
+          "urlHash": "70eed346696d56b6de8b074406b2338700300aa8",
+          "uuid": "70eed346-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-44"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
+          "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
+          "uuid": "7edf790d-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-51"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
+          "urlHash": "8b0748aaad8c8a6562e728fd58b7afe1a972f51b",
+          "uuid": "8b0748aa-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-54"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/health-systems",
+          "urlHash": "97964df3ccee53761c35d671779b0a9cf8fdec1d",
+          "uuid": "97964df3-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-57"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/patient-responsibility-estimation",
+          "urlHash": "9aec4d51aff09278b299950223f00932e280fc8e",
+          "uuid": "9aec4d51-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-59"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/hospitals-and-health-centers",
+          "urlHash": "a0d5c56c006d8f0e2716e5e2a7b63a23de658059",
+          "uuid": "a0d5c56c-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-51"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/credentialing/billing-services",
+          "urlHash": "a36289ed5414a084e44e68a3e604ff9fcbcc2a3a",
+          "uuid": "a36289ed-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-61"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/contract-management",
+          "urlHash": "c059405f851ccfe79d47baa2ad0edeef1b89e136",
+          "uuid": "c059405f-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-66"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management/claims-processing",
+          "urlHash": "da10df49d5c8f658420676d50000c592fbc75efc",
+          "uuid": "da10df49-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-72"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement",
+          "urlHash": "db9e9238b7199b945ba710db8ee7f1b3aa2a9d4f",
+          "uuid": "db9e9238-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-74"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
+          "urlHash": "f7e39bb2f63639495f7dbf66b63a03d211bdbdc5",
+          "uuid": "f7e39bb2-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-85"
         }
       ]
     },
@@ -5254,155 +5394,6 @@
           "urlHash": "fe23e75689b4e92985064715539cffa6b38698af",
           "uuid": "fe23e756-00-70928af0e9d7f0ac1f13f2d60f543d2cf08783dd",
           "xpath": "/html[1]/body[1]/header[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 29,
-      "source": "Hero",
-      "target": "Hero (hero29)",
-      "key": "hero29",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
-          "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
-          "uuid": "0b0cc60e-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-7"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/partnermarketplace",
-          "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
-          "uuid": "13951016-03-e571244482374834ab8d382213b3c6a4dae68844",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]",
-          "section": "section-4"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/revenue-recovery-services",
-          "urlHash": "1d30749a74896874dd3f96bb8f9115d85b680626",
-          "uuid": "1d30749a-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-20"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
-          "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
-          "uuid": "37c4b460-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-27"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/prior-authorization",
-          "urlHash": "41ea6fc55d78c481eafeb315342aa0a7a1b12d80",
-          "uuid": "41ea6fc5-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-31"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/patient-payments",
-          "urlHash": "4d858754ffa08acc4b4d3ebddccfd5a05c5e8681",
-          "uuid": "4d858754-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-33"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
-          "urlHash": "53f9499e96f90d75985c11ab29ab1dcd050a15bb",
-          "uuid": "53f9499e-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-37"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management",
-          "urlHash": "704a7b431c58608afcd929db81e3a1920c70b7de",
-          "uuid": "704a7b43-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-42"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management/advanced-claim-editing",
-          "urlHash": "70cb491b41de4b2b872eaa24c98a020fdf279c19",
-          "uuid": "70cb491b-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-43"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
-          "urlHash": "70eed346696d56b6de8b074406b2338700300aa8",
-          "uuid": "70eed346-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-44"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
-          "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
-          "uuid": "7edf790d-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-51"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
-          "urlHash": "8b0748aaad8c8a6562e728fd58b7afe1a972f51b",
-          "uuid": "8b0748aa-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-54"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/who-we-serve/health-systems",
-          "urlHash": "97964df3ccee53761c35d671779b0a9cf8fdec1d",
-          "uuid": "97964df3-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-57"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/patient-responsibility-estimation",
-          "urlHash": "9aec4d51aff09278b299950223f00932e280fc8e",
-          "uuid": "9aec4d51-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-59"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/who-we-serve/hospitals-and-health-centers",
-          "urlHash": "a0d5c56c006d8f0e2716e5e2a7b63a23de658059",
-          "uuid": "a0d5c56c-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-51"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/credentialing/billing-services",
-          "urlHash": "a36289ed5414a084e44e68a3e604ff9fcbcc2a3a",
-          "uuid": "a36289ed-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-61"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/contract-management",
-          "urlHash": "c059405f851ccfe79d47baa2ad0edeef1b89e136",
-          "uuid": "c059405f-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-66"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management/claims-processing",
-          "urlHash": "da10df49d5c8f658420676d50000c592fbc75efc",
-          "uuid": "da10df49-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-72"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/patient-engagement",
-          "urlHash": "db9e9238b7199b945ba710db8ee7f1b3aa2a9d4f",
-          "uuid": "db9e9238-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-74"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
-          "urlHash": "f7e39bb2f63639495f7dbf66b63a03d211bdbdc5",
-          "uuid": "f7e39bb2-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-85"
         }
       ]
     },
