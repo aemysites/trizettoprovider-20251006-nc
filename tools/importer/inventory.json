@@ -3693,7 +3693,7 @@
       "name": "Hero",
       "cluster": 15,
       "source": "Hero",
-      "target": "Hero (hero15)",
+      "target": "Hero (heroCaseStudy)",
       "key": "hero15",
       "instances": [
         {
