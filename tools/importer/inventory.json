@@ -2620,21 +2620,6 @@
     },
     {
       "name": "Hero",
-      "cluster": 4,
-      "source": "Hero",
-      "target": "Hero (hero4)",
-      "key": "hero4",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
-          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
-          "uuid": "788a7f1b-06-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
       "cluster": 5,
       "source": "Hero",
       "target": "Hero (heroCTA)",
@@ -6542,6 +6527,12 @@
           "uuid": "788a7f1b-17-2dbd45f01a1d67fc910b73fadb41b8f65de52bb7",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[16]",
           "section": "section-49"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
+          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
+          "uuid": "788a7f1b-06-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
         }
       ]
     },
