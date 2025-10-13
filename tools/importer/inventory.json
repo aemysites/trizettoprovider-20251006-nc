@@ -6569,7 +6569,7 @@
       "name": "Hero",
       "cluster": 57,
       "source": "Hero",
-      "target": "Hero (hero57)",
+      "target": "Hero (heroAlignCenter)",
       "key": "hero57",
       "instances": [
         {
