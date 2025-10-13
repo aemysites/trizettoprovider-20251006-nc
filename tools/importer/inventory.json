@@ -4149,7 +4149,7 @@
       "name": "Hero",
       "cluster": 21,
       "source": "Hero",
-      "target": "Hero (hero21)",
+      "target": "Hero (featureCubes)",
       "key": "hero21",
       "instances": [
         {
