@@ -4712,6 +4712,62 @@
           "uuid": "f7e39bb2-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-85"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
+          "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
+          "uuid": "001600b6-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
+          "urlHash": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1",
+          "uuid": "3b64ebb9-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/paa",
+          "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
+          "uuid": "769076f3-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/ohmd",
+          "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
+          "uuid": "77eb57e2-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
+          "urlHash": "ab8b662df43a6bba83e64201a55d8025569ad7e7",
+          "uuid": "ab8b662d-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
+          "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
+          "uuid": "bdc8d6c1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
+          "urlHash": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81",
+          "uuid": "bdce99c3-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/thetarho",
+          "urlHash": "c83221c842bf9409f1304f243a3f2f6c0cc01082",
+          "uuid": "c83221c8-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
         }
       ]
     },
@@ -5542,71 +5598,6 @@
           "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
           "uuid": "788a7f1b-11-364d9b11d6538eb90e249834703fcc7fb5366254",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 37,
-      "source": "Hero",
-      "target": "Hero (hero37)",
-      "key": "hero37",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
-          "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
-          "uuid": "001600b6-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
-          "urlHash": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1",
-          "uuid": "3b64ebb9-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/paa",
-          "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
-          "uuid": "769076f3-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/ohmd",
-          "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
-          "uuid": "77eb57e2-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
-          "urlHash": "ab8b662df43a6bba83e64201a55d8025569ad7e7",
-          "uuid": "ab8b662d-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
-          "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
-          "uuid": "bdc8d6c1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
-          "urlHash": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81",
-          "uuid": "bdce99c3-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/marketplace/thetarho",
-          "urlHash": "c83221c842bf9409f1304f243a3f2f6c0cc01082",
-          "uuid": "c83221c8-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-1"
         }
       ]
     },
