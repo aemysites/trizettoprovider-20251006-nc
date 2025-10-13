@@ -2638,6 +2638,12 @@
           "uuid": "9ad188a1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-58"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
+          "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
+          "uuid": "0ee843da-07-4e1b3e38529ab381f37efe849dbabb3d24197626",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]"
         }
       ]
     },
@@ -3494,21 +3500,6 @@
           "urlHash": "2751c11b708fc09ec0315e06c98777613a649d83",
           "uuid": "2751c11b-10-8e73c78fdb193d46bdc5d2129336f1ddb3c4e975",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[10]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 11,
-      "source": "Hero",
-      "target": "Hero (hero11)",
-      "key": "hero11",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
-          "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
-          "uuid": "0ee843da-07-4e1b3e38529ab381f37efe849dbabb3d24197626",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]"
         }
       ]
     },
