@@ -6535,14 +6535,14 @@
         {
           "url": "https://www.trizettoprovider.com/who-we-are/leadership",
           "urlHash": "2751c11b708fc09ec0315e06c98777613a649d83",
-          "uuid": "2751c11b-04-8c772bc18034c2e2cbca142f4b8ea20ae18746d2",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]"
+          "uuid": "2751c11b-05-4e1b3e38529ab381f37efe849dbabb3d24197626",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.trizettoprovider.com/who-we-are/leadership",
           "urlHash": "2751c11b708fc09ec0315e06c98777613a649d83",
-          "uuid": "2751c11b-05-4e1b3e38529ab381f37efe849dbabb3d24197626",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]"
+          "uuid": "2751c11b-04-8c772bc18034c2e2cbca142f4b8ea20ae18746d2",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]"
         }
       ]
     },
