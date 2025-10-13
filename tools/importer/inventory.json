@@ -6675,6 +6675,19 @@
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/form[1]"
         }
       ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 65,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/partnermarketplace",
+          "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
+          "uuid": "13951016-08-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-15"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -7103,13 +7116,6 @@
       "uuid": "13951016-06-5f96d4f0a776056ff22dde477155521459ba13e1",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
       "section": "section-14"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/partnermarketplace",
-      "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
-      "uuid": "13951016-08-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
-      "section": "section-15"
     },
     {
       "url": "https://www.trizettoprovider.com/partnermarketplace",
