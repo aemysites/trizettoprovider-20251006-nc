@@ -4768,6 +4768,20 @@
           "uuid": "c83221c8-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-1"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources/payer-list",
+          "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
+          "uuid": "8215eb1e-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-52"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/out-of-network-services-how-will-the-no-surprises-act-impact-payments",
+          "urlHash": "aafd6cb8f6db41a5b05274652386cecc5bef013f",
+          "uuid": "aafd6cb8-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
+          "section": "section-2"
         }
       ]
     },
@@ -6543,29 +6557,6 @@
           "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
           "uuid": "bd37bec5-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 57,
-      "source": "Hero",
-      "target": "Hero (hero57)",
-      "key": "hero57",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resources/payer-list",
-          "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
-          "uuid": "8215eb1e-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-52"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/out-of-network-services-how-will-the-no-surprises-act-impact-payments",
-          "urlHash": "aafd6cb8f6db41a5b05274652386cecc5bef013f",
-          "uuid": "aafd6cb8-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
-          "section": "section-2"
         }
       ]
     },
