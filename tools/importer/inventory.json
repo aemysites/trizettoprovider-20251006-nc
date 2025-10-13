@@ -2644,6 +2644,12 @@
           "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
           "uuid": "0ee843da-07-4e1b3e38529ab381f37efe849dbabb3d24197626",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/safety-first-managing-enrollments-properly-through-pecos",
+          "urlHash": "e9b64ca00e28acd54abe6f6a6c30b6000f70e493",
+          "uuid": "e9b64ca0-11-54f90bb5bf828d597948f7d67da22fe33498c3d2",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]"
         }
       ]
     },
@@ -6546,21 +6552,6 @@
           "uuid": "8215eb1e-07-a1f4cd92bd3db38144cf41d80871f607ea50ecdb",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
           "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 59,
-      "source": "Hero",
-      "target": "Hero (hero59)",
-      "key": "hero59",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/safety-first-managing-enrollments-properly-through-pecos",
-          "urlHash": "e9b64ca00e28acd54abe6f6a6c30b6000f70e493",
-          "uuid": "e9b64ca0-11-54f90bb5bf828d597948f7d67da22fe33498c3d2",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]"
         }
       ]
     },
