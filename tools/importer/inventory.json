@@ -4469,6 +4469,20 @@
           "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
           "uuid": "dd6dfba1-03-e571244482374834ab8d382213b3c6a4dae68844",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/anesthesia-billing-software",
+          "urlHash": "f1112e394e7c1664fa9ca084adc3dbcb33819e94",
+          "uuid": "f1112e39-06-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-82"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/analytics",
+          "urlHash": "f7df8ebe2d48ff08b6bdaf162347078820a420b9",
+          "uuid": "f7df8ebe-07-cdf3222df08d5bc6b2dc3c556d8455cecb2a2c57",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]",
+          "section": "section-8"
         }
       ]
     },
@@ -6483,29 +6497,6 @@
           "uuid": "769076f3-07-7a23a236b668e3a7208203f36d2fa7271b62249c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
           "section": "section-4"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 52,
-      "source": "Hero",
-      "target": "Hero (hero52)",
-      "key": "hero52",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/anesthesia-billing-software",
-          "urlHash": "f1112e394e7c1664fa9ca084adc3dbcb33819e94",
-          "uuid": "f1112e39-06-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
-          "section": "section-82"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/analytics",
-          "urlHash": "f7df8ebe2d48ff08b6bdaf162347078820a420b9",
-          "uuid": "f7df8ebe-07-cdf3222df08d5bc6b2dc3c556d8455cecb2a2c57",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]",
-          "section": "section-8"
         }
       ]
     },
