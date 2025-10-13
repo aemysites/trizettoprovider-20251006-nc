@@ -3092,6 +3092,12 @@
           "uuid": "9ad188a1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-58"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
+          "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
+          "uuid": "0b0cc60e-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
         }
       ]
     },
@@ -6703,12 +6709,6 @@
       "urlHash": "0a730f79f60077a322cfde48720cfd04bbf589f6",
       "uuid": "0a730f79-06-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
-      "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
-      "uuid": "0b0cc60e-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
