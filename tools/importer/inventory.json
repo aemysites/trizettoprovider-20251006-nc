@@ -3023,7 +3023,7 @@
       "name": "Hero",
       "cluster": 10,
       "source": "Hero",
-      "target": "Hero (hero10)",
+      "target": "Card (reveal) (hero10)",
       "key": "hero10",
       "instances": [
         {
