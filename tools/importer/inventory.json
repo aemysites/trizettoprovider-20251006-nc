@@ -4566,6 +4566,12 @@
           "uuid": "c9f166ca-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-71"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/revenue-cycle-outsourcing-intertwining-process-with-technology-to-improve-outcomes",
+          "urlHash": "51efdacac27563a6539b294c70b65d71e8441ab2",
+          "uuid": "51efdaca-08-6ebe87a934492f705adce613d30b7be5ac205d22",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[6]"
         }
       ]
     },
@@ -4582,21 +4588,6 @@
           "uuid": "788a7f1b-15-a6d733ee9b55488b592daa3b96a42df538fe6333",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[14]/div[1]/div[1]/div[1]/div[2]",
           "section": "section-5"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 26,
-      "source": "Hero",
-      "target": "Hero (hero26)",
-      "key": "hero26",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/revenue-cycle-outsourcing-intertwining-process-with-technology-to-improve-outcomes",
-          "urlHash": "51efdacac27563a6539b294c70b65d71e8441ab2",
-          "uuid": "51efdaca-08-6ebe87a934492f705adce613d30b7be5ac205d22",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[6]"
         }
       ]
     },
