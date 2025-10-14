@@ -6795,6 +6795,13 @@
           "uuid": "8b0748aa-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
+          "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
+          "uuid": "37c4b460-09-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
         }
       ],
       "target": "Heading"
@@ -6902,13 +6909,6 @@
       "name": "new",
       "cluster": 71,
       "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
-          "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
-          "uuid": "37c4b460-09-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-          "section": "section-4"
-        },
         {
           "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
           "urlHash": "53f9499e96f90d75985c11ab29ab1dcd050a15bb",
