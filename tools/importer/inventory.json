@@ -3156,6 +3156,12 @@
           "urlHash": "8e51b48449f6ed4607daf66ea01316e31401cf8b",
           "uuid": "8e51b484-06-9d82261bd1b7afe641fbcc151e4edd71e6787514",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/contact-us",
+          "urlHash": "8cdca41f74dca9b4ef3877b8abfbea4f9d1bd1da",
+          "uuid": "8cdca41f-07-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
         }
       ]
     },
@@ -8643,12 +8649,6 @@
       "uuid": "8cdca41f-05-55552fefb31d620314d48cc3c272b9d28216eb27",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[3]",
       "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/contact-us",
-      "urlHash": "8cdca41f74dca9b4ef3877b8abfbea4f9d1bd1da",
-      "uuid": "8cdca41f-07-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
     },
     {
       "url": "https://www.trizettoprovider.com/contact-us",
