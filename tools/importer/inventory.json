@@ -5696,7 +5696,7 @@
       "name": "Accordion",
       "cluster": 41,
       "source": "Accordion",
-      "target": "Accordion (accordion41)",
+      "target": "Accordion (optOutPreferences)",
       "key": "accordion41",
       "instances": [
         {
