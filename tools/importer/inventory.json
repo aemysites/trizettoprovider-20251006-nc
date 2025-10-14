@@ -5542,21 +5542,6 @@
     },
     {
       "name": "Columns",
-      "cluster": 33,
-      "source": "Columns",
-      "target": "Columns (columns33)",
-      "key": "columns33",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
-          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
-          "uuid": "788a7f1b-05-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
       "cluster": 34,
       "source": "Columns block",
       "target": "Columns block (columns34)",
@@ -5763,6 +5748,12 @@
           "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
           "uuid": "0ee843da-09-4e7096cfd48420fac2e300215374df8a38191bbf",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
+          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
+          "uuid": "788a7f1b-05-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
         }
       ]
     },
