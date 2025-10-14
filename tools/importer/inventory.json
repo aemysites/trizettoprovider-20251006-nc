@@ -6738,6 +6738,13 @@
           "uuid": "7edf790d-10-ef4697d8ab1131e729cf3c58c78622c825ceabd9",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
+          "urlHash": "70eed346696d56b6de8b074406b2338700300aa8",
+          "uuid": "70eed346-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
         }
       ],
       "target": "Heading"
@@ -8244,13 +8251,6 @@
       "urlHash": "70cb491b41de4b2b872eaa24c98a020fdf279c19",
       "uuid": "70cb491b-13-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
-      "urlHash": "70eed346696d56b6de8b074406b2338700300aa8",
-      "uuid": "70eed346-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
