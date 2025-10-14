@@ -6471,33 +6471,6 @@
       ]
     },
     {
-      "name": "Hero",
-      "cluster": 49,
-      "source": "Hero",
-      "target": "Form",
-      "key": "hero49",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
-          "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
-          "uuid": "43264845-07-316b65466da36b5a0717a876f596231b0bd82bd8",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/strategies-to-prevent-coding-denials-and-increase-revenues",
-          "urlHash": "a22db563714825ad108779f91e01418862cdf87b",
-          "uuid": "a22db563-04-feff516d0115e18d8ef03e1918c810828759d52c",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/driving-dollars-through-data-an-innovative-way-to-improve-self-debt-collections",
-          "urlHash": "b8e2b6be342da74b6e6551fe15f5a0b6baa75c98",
-          "uuid": "b8e2b6be-04-feff516d0115e18d8ef03e1918c810828759d52c",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
       "name": "Columns",
       "cluster": 50,
       "source": "Columns",
@@ -6878,6 +6851,24 @@
           "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
           "uuid": "bd37bec5-06-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
+          "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
+          "uuid": "43264845-07-316b65466da36b5a0717a876f596231b0bd82bd8",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/strategies-to-prevent-coding-denials-and-increase-revenues",
+          "urlHash": "a22db563714825ad108779f91e01418862cdf87b",
+          "uuid": "a22db563-04-feff516d0115e18d8ef03e1918c810828759d52c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/driving-dollars-through-data-an-innovative-way-to-improve-self-debt-collections",
+          "urlHash": "b8e2b6be342da74b6e6551fe15f5a0b6baa75c98",
+          "uuid": "b8e2b6be-04-feff516d0115e18d8ef03e1918c810828759d52c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
         }
       ]
     },
