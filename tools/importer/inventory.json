@@ -6963,6 +6963,12 @@
   ],
   "outliers": [
     {
+      "url": "https://www.trizettoprovider.com/",
+      "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
+      "uuid": "dd6dfba1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
       "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
       "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
       "uuid": "001600b6-09-a507e040135207256fc0c4fd07f12510b5a9e729",
@@ -9388,12 +9394,6 @@
       "urlHash": "db9e9238b7199b945ba710db8ee7f1b3aa2a9d4f",
       "uuid": "db9e9238-10-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/",
-      "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
-      "uuid": "dd6dfba1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/",
