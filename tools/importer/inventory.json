@@ -4411,7 +4411,7 @@
       "name": "Cards",
       "cluster": 20,
       "source": "Cards",
-      "target": "Cards (cards20)",
+      "target": "Cards (partnerCards)",
       "key": "cards20",
       "instances": [
         {
