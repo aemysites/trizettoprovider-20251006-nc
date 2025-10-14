@@ -6599,6 +6599,13 @@
           "uuid": "aafd6cb8-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
           "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
+          "urlHash": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1",
+          "uuid": "3b64ebb9-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
         }
       ]
     },
@@ -7810,13 +7817,6 @@
       "urlHash": "3ab0708e44cb5f0c47dcd320c9a45e2871ae43b2",
       "uuid": "3ab0708e-05-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
-      "urlHash": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1",
-      "uuid": "3b64ebb9-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
