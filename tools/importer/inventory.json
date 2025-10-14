@@ -2895,6 +2895,12 @@
           "urlHash": "e9b64ca00e28acd54abe6f6a6c30b6000f70e493",
           "uuid": "e9b64ca0-11-54f90bb5bf828d597948f7d67da22fe33498c3d2",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-are/our-story",
+          "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
+          "uuid": "12a06b00-12-e4d3a169fd14562460ee1d5c2fd63f44d6cf768a",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]"
         }
       ]
     },
@@ -7081,12 +7087,6 @@
       "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
       "uuid": "12a06b00-11-05c1f856b5fdaf65b24ce049b72c9b79bfd2051d",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/who-we-are/our-story",
-      "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
-      "uuid": "12a06b00-12-e4d3a169fd14562460ee1d5c2fd63f44d6cf768a",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]"
     },
     {
       "url": "https://www.trizettoprovider.com/who-we-are/our-story",
