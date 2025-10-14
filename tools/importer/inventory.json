@@ -5516,7 +5516,7 @@
       "name": "Cards",
       "cluster": 32,
       "source": "Cards",
-      "target": "Cards (postList, simple)",
+      "target": "Cards (postList)",
       "key": "cards32",
       "instances": [
         {
