@@ -6724,6 +6724,13 @@
           "uuid": "9ad188a1-10-9d2112a2a1116776409a800a7c66b115bedc7e9b",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[11]",
           "section": "section-5"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/99-percent-club",
+          "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
+          "uuid": "c9f166ca-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-5"
         }
       ],
       "target": "Hero (CTA) (alignCenter)"
@@ -9286,13 +9293,6 @@
       "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
       "uuid": "c9f166ca-03-e571244482374834ab8d382213b3c6a4dae68844",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/99-percent-club",
-      "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
-      "uuid": "c9f166ca-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]",
-      "section": "section-5"
     },
     {
       "url": "https://www.trizettoprovider.com/99-percent-club",
