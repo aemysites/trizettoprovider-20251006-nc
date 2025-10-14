@@ -6765,6 +6765,12 @@
           "uuid": "70eed346-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
+          "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
+          "uuid": "7edf790d-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ],
       "target": "Heading"
@@ -8450,12 +8456,6 @@
       "urlHash": "7bb4ffe8ffaa24b4cd00f374c85cec56bf0fbef2",
       "uuid": "7bb4ffe8-06-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
-      "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
-      "uuid": "7edf790d-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
