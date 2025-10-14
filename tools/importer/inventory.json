@@ -6787,6 +6787,13 @@
           "uuid": "37c4b460-09-0fd2e2d4eaf9342ea162282b351350871598ed9c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
+          "urlHash": "53f9499e96f90d75985c11ab29ab1dcd050a15bb",
+          "uuid": "53f9499e-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
         }
       ]
     },
@@ -8007,13 +8014,6 @@
       "urlHash": "51efdacac27563a6539b294c70b65d71e8441ab2",
       "uuid": "51efdaca-11-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
-      "urlHash": "53f9499e96f90d75985c11ab29ab1dcd050a15bb",
-      "uuid": "53f9499e-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
