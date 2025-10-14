@@ -2634,7 +2634,7 @@
       "name": "Cards",
       "cluster": 4,
       "source": "Cards",
-      "target": "Cards (cards4)",
+      "target": "Cards (resourceCards)",
       "key": "cards4",
       "instances": [
         {
