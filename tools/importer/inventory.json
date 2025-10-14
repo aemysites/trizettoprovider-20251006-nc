@@ -6876,6 +6876,12 @@
           "urlHash": "b8e2b6be342da74b6e6551fe15f5a0b6baa75c98",
           "uuid": "b8e2b6be-04-feff516d0115e18d8ef03e1918c810828759d52c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
+          "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
+          "uuid": "61161d0c-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
         }
       ],
       "target": "Form"
@@ -8215,12 +8221,6 @@
       "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
       "uuid": "61161d0c-03-e571244482374834ab8d382213b3c6a4dae68844",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
-      "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
-      "uuid": "61161d0c-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
