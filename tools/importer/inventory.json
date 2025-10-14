@@ -6737,6 +6737,19 @@
         }
       ],
       "target": "Hero"
+    },
+    {
+      "name": "new",
+      "cluster": 70,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
+          "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
+          "uuid": "2dae66a7-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
+          "section": "section-25"
+        }
+      ]
     }
   ],
   "outliers": [
@@ -7637,13 +7650,6 @@
       "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
       "uuid": "2dae66a7-05-feff516d0115e18d8ef03e1918c810828759d52c",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
-      "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
-      "uuid": "2dae66a7-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
-      "section": "section-25"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
