@@ -3157,7 +3157,7 @@
       "name": "Columns",
       "cluster": 12,
       "source": "Columns",
-      "target": "Columns (columns12)",
+      "target": "Columns (statisticsRight)",
       "key": "columns12",
       "instances": [
         {
