@@ -2575,7 +2575,8 @@
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
         }
       ],
-      "target": "Hero (CTA)"
+      "target": "Hero (CTA)",
+      "key": "hero1"
     },
     {
       "name": "Cards",
@@ -2843,7 +2844,8 @@
           "uuid": "788a7f1b-06-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
         }
-      ]
+      ],
+      "key": "unknown5"
     },
     {
       "name": "Cards",
@@ -5263,7 +5265,8 @@
           "uuid": "d858149e-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
           "xpath": "/html[1]/body[1]/main[1]"
         }
-      ]
+      ],
+      "key": "unknown30"
     },
     {
       "name": "Hero",
@@ -6697,7 +6700,8 @@
           "xpath": "/html[1]/body[1]/main[1]"
         }
       ],
-      "target": "Form (details)"
+      "target": "Form (details)",
+      "key": "new63"
     },
     {
       "name": "new",
@@ -6710,7 +6714,8 @@
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/form[1]"
         }
       ],
-      "target": "Form (optin)"
+      "target": "Form (optin)",
+      "key": "new64"
     },
     {
       "name": "Hero",
@@ -6751,7 +6756,8 @@
           "section": "section-5"
         }
       ],
-      "target": "Hero (CTA) (alignCenter)"
+      "target": "Hero (CTA) (alignCenter)",
+      "key": "hero65"
     },
     {
       "name": "new",
@@ -6869,7 +6875,8 @@
           "section": "section-4"
         }
       ],
-      "target": "Heading"
+      "target": "Heading",
+      "key": "new66"
     },
     {
       "name": "new",
@@ -6936,7 +6943,8 @@
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
         }
       ],
-      "target": "Form"
+      "target": "Form",
+      "key": "new68"
     },
     {
       "name": "Hero",
@@ -6949,7 +6957,8 @@
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
         }
       ],
-      "target": "Hero"
+      "target": "Hero",
+      "key": "hero69"
     },
     {
       "name": "new",
@@ -6963,7 +6972,8 @@
           "section": "section-25"
         }
       ],
-      "target": "Form (newsletter)"
+      "target": "Form (newsletter)",
+      "key": "new70"
     },
     {
       "name": "new",
@@ -6976,7 +6986,8 @@
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[1]/div[2]"
         }
       ],
-      "target": "Form (fullwidth)"
+      "target": "Form (fullwidth)",
+      "key": "new72"
     }
   ],
   "outliers": [
