@@ -6905,6 +6905,13 @@
           "uuid": "53f9499e-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
+          "urlHash": "f7e39bb2f63639495f7dbf66b63a03d211bdbdc5",
+          "uuid": "f7e39bb2-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
         }
       ]
     },
@@ -9719,13 +9726,6 @@
       "uuid": "f7e39bb2-07-2cd4b05b044987822f4aa516fbb1d4d2b32b4c14",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[3]",
       "section": "section-8"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
-      "urlHash": "f7e39bb2f63639495f7dbf66b63a03d211bdbdc5",
-      "uuid": "f7e39bb2-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
