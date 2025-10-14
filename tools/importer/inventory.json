@@ -5654,6 +5654,13 @@
           "urlHash": "704a7b431c58608afcd929db81e3a1920c70b7de",
           "uuid": "704a7b43-07-4ef78c0fb5cc769a2c6b8689568f9dda84e057c3",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources/payer-list",
+          "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
+          "uuid": "8215eb1e-20-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-4"
         }
       ]
     },
@@ -8584,13 +8591,6 @@
       "uuid": "8215eb1e-19-547cab0ea6d40c232fcc6d3d8dc4c326469e9a3e",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[5]",
       "section": "section-53"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resources/payer-list",
-      "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
-      "uuid": "8215eb1e-20-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/resources/payer-list",
