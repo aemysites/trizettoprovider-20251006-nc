@@ -3150,6 +3150,12 @@
           "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
           "uuid": "788a7f1b-18-54e795847d2698af442d697abc3955fefc97414f",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[18]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
+          "urlHash": "8e51b48449f6ed4607daf66ea01316e31401cf8b",
+          "uuid": "8e51b484-06-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]"
         }
       ]
     },
@@ -8649,12 +8655,6 @@
       "urlHash": "8cdca41f74dca9b4ef3877b8abfbea4f9d1bd1da",
       "uuid": "8cdca41f-09-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
-      "urlHash": "8e51b48449f6ed4607daf66ea01316e31401cf8b",
-      "uuid": "8e51b484-06-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
