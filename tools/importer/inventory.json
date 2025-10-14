@@ -6716,6 +6716,12 @@
           "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
           "uuid": "0ee843da-47-7f2b48272b5c2fb74456a4fa444ad4e51f989a83",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
+          "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
+          "uuid": "2dae66a7-04-bd7a0ed96e4f41ce03ed5d5d1188f4ed5ade9f60",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -7625,12 +7631,6 @@
       "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
       "uuid": "2dae66a7-03-e571244482374834ab8d382213b3c6a4dae68844",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
-      "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
-      "uuid": "2dae66a7-04-bd7a0ed96e4f41ce03ed5d5d1188f4ed5ade9f60",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
