@@ -4490,7 +4490,7 @@
       "name": "Cards",
       "cluster": 25,
       "source": "Cards",
-      "target": "Cards (cards25)",
+      "target": "Cards (resourceList)",
       "key": "cards25",
       "instances": [
         {
