@@ -6642,6 +6642,13 @@
           "uuid": "769076f3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
           "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
+          "urlHash": "ab8b662df43a6bba83e64201a55d8025569ad7e7",
+          "uuid": "ab8b662d-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
         }
       ]
     },
@@ -9007,13 +9014,6 @@
       "urlHash": "aafe94be13941af9d94e32d1681a0ec4fda7e034",
       "uuid": "aafe94be-04-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
-      "urlHash": "ab8b662df43a6bba83e64201a55d8025569ad7e7",
-      "uuid": "ab8b662d-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
