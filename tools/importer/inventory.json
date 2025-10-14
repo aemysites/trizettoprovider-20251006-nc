@@ -3834,6 +3834,12 @@
           "uuid": "c9f166ca-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-71"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources",
+          "urlHash": "816fc301302663f561a257ceacc43af573fb7ea7",
+          "uuid": "816fc301-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -8456,12 +8462,6 @@
       "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
       "uuid": "7edf790d-14-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resources",
-      "urlHash": "816fc301302663f561a257ceacc43af573fb7ea7",
-      "uuid": "816fc301-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/resources",
