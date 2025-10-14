@@ -6657,6 +6657,12 @@
           "uuid": "07a37b6d-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
           "xpath": "/html[1]/body[1]/main[1]",
           "section": "section-5"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery/denials-roi-calculator",
+          "urlHash": "aafe94be13941af9d94e32d1681a0ec4fda7e034",
+          "uuid": "aafe94be-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
         }
       ],
       "target": "Form (details)"
@@ -8989,12 +8995,6 @@
       "urlHash": "aafd6cb8f6db41a5b05274652386cecc5bef013f",
       "uuid": "aafd6cb8-08-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery/denials-roi-calculator",
-      "urlHash": "aafe94be13941af9d94e32d1681a0ec4fda7e034",
-      "uuid": "aafe94be-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
-      "xpath": "/html[1]/body[1]/main[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery/denials-roi-calculator",
