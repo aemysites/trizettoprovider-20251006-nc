@@ -6710,6 +6710,13 @@
           "uuid": "41ea6fc5-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/ohmd",
+          "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
+          "uuid": "77eb57e2-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
         }
       ],
       "target": "Heading"
@@ -8294,13 +8301,6 @@
       "uuid": "77eb57e2-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
       "section": "section-2"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/ohmd",
-      "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
-      "uuid": "77eb57e2-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/ohmd",
