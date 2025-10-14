@@ -6607,6 +6607,13 @@
           "uuid": "001600b6-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
           "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
+          "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
+          "uuid": "bdc8d6c1-10-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
         }
       ]
     },
@@ -9086,13 +9093,6 @@
       "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
       "uuid": "bdc8d6c1-08-8c772bc18034c2e2cbca142f4b8ea20ae18746d2",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
-      "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
-      "uuid": "bdc8d6c1-10-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
