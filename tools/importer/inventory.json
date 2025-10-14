@@ -6813,6 +6813,12 @@
           "urlHash": "3767fa2c3bd51348b6845e980e3b64fc188c1129",
           "uuid": "3767fa2c-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
+          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
+          "uuid": "788a7f1b-27-2a28edbd9f7aa62d4094b0cf0a7bd6298a9c2e5c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]/div[2]"
         }
       ]
     },
@@ -8417,12 +8423,6 @@
       "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
       "uuid": "788a7f1b-26-66908b6c29ab7cc67e533b00cf4dfaa19730bc84",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/denials-central",
-      "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
-      "uuid": "788a7f1b-27-2a28edbd9f7aa62d4094b0cf0a7bd6298a9c2e5c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]/div[2]"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/denials-central",
