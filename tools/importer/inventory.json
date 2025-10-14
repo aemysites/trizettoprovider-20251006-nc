@@ -2421,7 +2421,7 @@
   ],
   "blocks": [
     {
-      "name": "unknown",
+      "name": "Hero",
       "cluster": 1,
       "instances": [
         {
@@ -2567,8 +2567,15 @@
           "urlHash": "f7e39bb2f63639495f7dbf66b63a03d211bdbdc5",
           "uuid": "f7e39bb2-03-946c96b1b10247103ead2d427ba8b2ad051e4c49",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/health-systems",
+          "urlHash": "97964df3ccee53761c35d671779b0a9cf8fdec1d",
+          "uuid": "97964df3-03-946c96b1b10247103ead2d427ba8b2ad051e4c49",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
         }
-      ]
+      ],
+      "target": "Hero (CTA)"
     },
     {
       "name": "Cards",
@@ -2634,7 +2641,7 @@
       "name": "Cards",
       "cluster": 4,
       "source": "Cards",
-      "target": "Cards (cards4)",
+      "target": "Cards (resourceCards)",
       "key": "cards4",
       "instances": [
         {
@@ -2796,6 +2803,33 @@
           "uuid": "f7e39bb2-09-7a23a236b668e3a7208203f36d2fa7271b62249c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
           "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management/claims-processing",
+          "urlHash": "da10df49d5c8f658420676d50000c592fbc75efc",
+          "uuid": "da10df49-09-7a23a236b668e3a7208203f36d2fa7271b62249c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/eligibility",
+          "urlHash": "398435d97f0b8d492d0b9b9cca314fe3864b28d3",
+          "uuid": "398435d9-10-253bc8b86780d23e61ef36500bc7455ce1decd52",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management/advanced-claim-editing",
+          "urlHash": "70cb491b41de4b2b872eaa24c98a020fdf279c19",
+          "uuid": "70cb491b-11-9fe0e3551bd62ddd2edfd2edb607cbb9be822624",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[10]/div[2]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/anesthesia-billing-software",
+          "urlHash": "f1112e394e7c1664fa9ca084adc3dbcb33819e94",
+          "uuid": "f1112e39-08-7a23a236b668e3a7208203f36d2fa7271b62249c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-4"
         }
       ]
     },
@@ -2867,6 +2901,12 @@
           "urlHash": "e9b64ca00e28acd54abe6f6a6c30b6000f70e493",
           "uuid": "e9b64ca0-11-54f90bb5bf828d597948f7d67da22fe33498c3d2",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-are/our-story",
+          "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
+          "uuid": "12a06b00-12-e4d3a169fd14562460ee1d5c2fd63f44d6cf768a",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]"
         }
       ]
     },
@@ -3092,6 +3132,54 @@
           "uuid": "9ad188a1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-58"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
+          "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
+          "uuid": "0b0cc60e-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
+          "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
+          "uuid": "37c4b460-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
+          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
+          "uuid": "788a7f1b-18-54e795847d2698af442d697abc3955fefc97414f",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[18]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
+          "urlHash": "8e51b48449f6ed4607daf66ea01316e31401cf8b",
+          "uuid": "8e51b484-06-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/contact-us",
+          "urlHash": "8cdca41f74dca9b4ef3877b8abfbea4f9d1bd1da",
+          "uuid": "8cdca41f-07-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/",
+          "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
+          "uuid": "dd6dfba1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/",
+          "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
+          "uuid": "dd6dfba1-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/analytics",
+          "urlHash": "f7df8ebe2d48ff08b6bdaf162347078820a420b9",
+          "uuid": "f7df8ebe-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -3099,7 +3187,7 @@
       "name": "Columns",
       "cluster": 12,
       "source": "Columns",
-      "target": "Columns (columns12)",
+      "target": "Columns (statisticsRight)",
       "key": "columns12",
       "instances": [
         {
@@ -3574,7 +3662,7 @@
       "name": "Columns",
       "cluster": 17,
       "source": "Columns",
-      "target": "Columns (columns17)",
+      "target": "Columns (solutionsCards)",
       "key": "columns17",
       "instances": [
         {
@@ -3782,6 +3870,12 @@
           "uuid": "c9f166ca-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-71"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources",
+          "urlHash": "816fc301302663f561a257ceacc43af573fb7ea7",
+          "uuid": "816fc301-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -4398,7 +4492,7 @@
       "name": "Cards",
       "cluster": 20,
       "source": "Cards",
-      "target": "Cards (cards20)",
+      "target": "Cards (partnerCards)",
       "key": "cards20",
       "instances": [
         {
@@ -4423,35 +4517,6 @@
           "uuid": "8215eb1e-18-fff04469bb763e86d50005b4767090ccbc6764f6",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[4]",
           "section": "section-53"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 22,
-      "source": "Cards",
-      "target": "Cards (cards22)",
-      "key": "cards22",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/eligibility",
-          "urlHash": "398435d97f0b8d492d0b9b9cca314fe3864b28d3",
-          "uuid": "398435d9-10-253bc8b86780d23e61ef36500bc7455ce1decd52",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
-          "section": "section-4"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management/advanced-claim-editing",
-          "urlHash": "70cb491b41de4b2b872eaa24c98a020fdf279c19",
-          "uuid": "70cb491b-11-9fe0e3551bd62ddd2edfd2edb607cbb9be822624",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[10]/div[2]/div[1]/div[1]/div[5]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/anesthesia-billing-software",
-          "urlHash": "f1112e394e7c1664fa9ca084adc3dbcb33819e94",
-          "uuid": "f1112e39-08-7a23a236b668e3a7208203f36d2fa7271b62249c",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
-          "section": "section-4"
         }
       ]
     },
@@ -4486,7 +4551,7 @@
       "name": "Cards",
       "cluster": 25,
       "source": "Cards",
-      "target": "Cards (cards25)",
+      "target": "Cards (resourceList)",
       "key": "cards25",
       "instances": [
         {
@@ -5493,7 +5558,7 @@
       "name": "Cards",
       "cluster": 32,
       "source": "Cards",
-      "target": "Cards (cards32)",
+      "target": "Cards (postList)",
       "key": "cards32",
       "instances": [
         {
@@ -5502,21 +5567,6 @@
           "uuid": "8e699a53-07-2fbfc3b601467bf66556411a4bb209ff73486cfa",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
           "section": "section-4"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 33,
-      "source": "Columns",
-      "target": "Columns (columns33)",
-      "key": "columns33",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
-          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
-          "uuid": "788a7f1b-05-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
         }
       ]
     },
@@ -5575,7 +5625,7 @@
       "name": "Hero",
       "cluster": 37,
       "source": "Hero",
-      "target": "Blockquote (blockquoteBlue)",
+      "target": "Blockquote (bgBlue)",
       "key": "hero37",
       "instances": [
         {
@@ -5619,21 +5669,6 @@
           "uuid": "bdc8d6c1-11-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]",
           "section": "section-3"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 38,
-      "source": "Hero",
-      "target": "Hero (CTA) (heroCTAAlignCenter)",
-      "key": "hero38",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management",
-          "urlHash": "704a7b431c58608afcd929db81e3a1920c70b7de",
-          "uuid": "704a7b43-07-4ef78c0fb5cc769a2c6b8689568f9dda84e057c3",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]"
         }
       ]
     },
@@ -5690,7 +5725,7 @@
       "name": "Accordion",
       "cluster": 41,
       "source": "Accordion",
-      "target": "Accordion (accordion41)",
+      "target": "Accordion (optOutPreferences)",
       "key": "accordion41",
       "instances": [
         {
@@ -5720,7 +5755,7 @@
       "name": "Columns",
       "cluster": 42,
       "source": "Columns",
-      "target": "Columns (columns42)",
+      "target": "Columns (linksList)",
       "key": "columns42",
       "instances": [
         {
@@ -5728,6 +5763,12 @@
           "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
           "uuid": "0ee843da-09-4e7096cfd48420fac2e300215374df8a38191bbf",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
+          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
+          "uuid": "788a7f1b-05-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
         }
       ]
     },
@@ -6419,33 +6460,6 @@
       ]
     },
     {
-      "name": "Hero",
-      "cluster": 49,
-      "source": "Hero",
-      "target": "Form",
-      "key": "hero49",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
-          "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
-          "uuid": "43264845-07-316b65466da36b5a0717a876f596231b0bd82bd8",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/strategies-to-prevent-coding-denials-and-increase-revenues",
-          "urlHash": "a22db563714825ad108779f91e01418862cdf87b",
-          "uuid": "a22db563-04-feff516d0115e18d8ef03e1918c810828759d52c",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resource-library/driving-dollars-through-data-an-innovative-way-to-improve-self-debt-collections",
-          "urlHash": "b8e2b6be342da74b6e6551fe15f5a0b6baa75c98",
-          "uuid": "b8e2b6be-04-feff516d0115e18d8ef03e1918c810828759d52c",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
       "name": "Columns",
       "cluster": 50,
       "source": "Columns",
@@ -6523,20 +6537,20 @@
       "name": "Cards",
       "cluster": 54,
       "source": "Cards",
-      "target": "Cards (cards54)",
+      "target": "Cards (personCard)",
       "key": "cards54",
       "instances": [
         {
           "url": "https://www.trizettoprovider.com/who-we-are/leadership",
           "urlHash": "2751c11b708fc09ec0315e06c98777613a649d83",
-          "uuid": "2751c11b-04-8c772bc18034c2e2cbca142f4b8ea20ae18746d2",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]"
+          "uuid": "2751c11b-05-4e1b3e38529ab381f37efe849dbabb3d24197626",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]"
         },
         {
           "url": "https://www.trizettoprovider.com/who-we-are/leadership",
           "urlHash": "2751c11b708fc09ec0315e06c98777613a649d83",
-          "uuid": "2751c11b-05-4e1b3e38529ab381f37efe849dbabb3d24197626",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]"
+          "uuid": "2751c11b-04-8c772bc18034c2e2cbca142f4b8ea20ae18746d2",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]"
         }
       ]
     },
@@ -6576,6 +6590,55 @@
           "uuid": "aafd6cb8-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
           "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
+          "urlHash": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1",
+          "uuid": "3b64ebb9-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/ohmd",
+          "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
+          "uuid": "77eb57e2-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/paa",
+          "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
+          "uuid": "769076f3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
+          "urlHash": "ab8b662df43a6bba83e64201a55d8025569ad7e7",
+          "uuid": "ab8b662d-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
+          "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
+          "uuid": "001600b6-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
+          "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
+          "uuid": "bdc8d6c1-10-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
+          "urlHash": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81",
+          "uuid": "bdce99c3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
         }
       ]
     },
@@ -6592,22 +6655,6 @@
           "uuid": "8215eb1e-07-a1f4cd92bd3db38144cf41d80871f607ea50ecdb",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[5]",
           "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 60,
-      "source": "Cards",
-      "target": "Cards (cards60)",
-      "key": "cards60",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management/claims-processing",
-          "urlHash": "da10df49d5c8f658420676d50000c592fbc75efc",
-          "uuid": "da10df49-09-7a23a236b668e3a7208203f36d2fa7271b62249c",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
-          "section": "section-4"
         }
       ]
     },
@@ -6633,45 +6680,311 @@
       ]
     },
     {
-      "name": "unknown",
-      "cluster": 62,
+      "name": "new",
+      "cluster": 63,
       "instances": [
         {
-          "url": "https://www.trizettoprovider.com/who-we-serve/health-systems",
-          "urlHash": "97964df3ccee53761c35d671779b0a9cf8fdec1d",
-          "uuid": "97964df3-03-946c96b1b10247103ead2d427ba8b2ad051e4c49",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]"
+          "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
+          "urlHash": "07a37b6d9b6ebed011fcef9bb1ad9510fb8ebd02",
+          "uuid": "07a37b6d-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery/denials-roi-calculator",
+          "urlHash": "aafe94be13941af9d94e32d1681a0ec4fda7e034",
+          "uuid": "aafe94be-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
+          "xpath": "/html[1]/body[1]/main[1]"
         }
-      ]
+      ],
+      "target": "Form (details)"
+    },
+    {
+      "name": "new",
+      "cluster": 64,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/opt-out-preferences",
+          "urlHash": "1be9f869513fa92dfba9eca43aa3f1026ffc2c52",
+          "uuid": "1be9f869-06-405da020e6d2c645a39ebd0c14b20e4d06265d48",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/form[1]"
+        }
+      ],
+      "target": "Form (optin)"
+    },
+    {
+      "name": "Hero",
+      "cluster": 65,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/partnermarketplace",
+          "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
+          "uuid": "13951016-08-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-15"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management",
+          "urlHash": "704a7b431c58608afcd929db81e3a1920c70b7de",
+          "uuid": "704a7b43-07-4ef78c0fb5cc769a2c6b8689568f9dda84e057c3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources/payer-list",
+          "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
+          "uuid": "8215eb1e-20-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/credentialing",
+          "urlHash": "9ad188a119801272a0bb2e23349c1e8e3730ab30",
+          "uuid": "9ad188a1-10-9d2112a2a1116776409a800a7c66b115bedc7e9b",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[11]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/99-percent-club",
+          "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
+          "uuid": "c9f166ca-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]",
+          "section": "section-5"
+        }
+      ],
+      "target": "Hero (CTA) (alignCenter)"
+    },
+    {
+      "name": "new",
+      "cluster": 66,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
+          "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
+          "uuid": "001600b6-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
+          "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
+          "uuid": "0b0cc60e-07-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/eligibility",
+          "urlHash": "398435d97f0b8d492d0b9b9cca314fe3864b28d3",
+          "uuid": "398435d9-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/prior-authorization",
+          "urlHash": "41ea6fc55d78c481eafeb315342aa0a7a1b12d80",
+          "uuid": "41ea6fc5-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/ohmd",
+          "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
+          "uuid": "77eb57e2-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/patient-engagement/patient-payments",
+          "urlHash": "4d858754ffa08acc4b4d3ebddccfd5a05c5e8681",
+          "uuid": "4d858754-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
+          "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
+          "uuid": "7edf790d-10-ef4697d8ab1131e729cf3c58c78622c825ceabd9",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
+          "urlHash": "70eed346696d56b6de8b074406b2338700300aa8",
+          "uuid": "70eed346-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
+          "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
+          "uuid": "7edf790d-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/paa",
+          "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
+          "uuid": "769076f3-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources",
+          "urlHash": "816fc301302663f561a257ceacc43af573fb7ea7",
+          "uuid": "816fc301-04-bd7a0ed96e4f41ce03ed5d5d1188f4ed5ade9f60",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-5"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
+          "urlHash": "8b0748aaad8c8a6562e728fd58b7afe1a972f51b",
+          "uuid": "8b0748aa-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
+          "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
+          "uuid": "37c4b460-09-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
+          "urlHash": "53f9499e96f90d75985c11ab29ab1dcd050a15bb",
+          "uuid": "53f9499e-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
+          "urlHash": "f7e39bb2f63639495f7dbf66b63a03d211bdbdc5",
+          "uuid": "f7e39bb2-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
+          "urlHash": "8e51b48449f6ed4607daf66ea01316e31401cf8b",
+          "uuid": "8e51b484-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ],
+      "target": "Heading"
+    },
+    {
+      "name": "new",
+      "cluster": 68,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
+          "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
+          "uuid": "0ee843da-47-7f2b48272b5c2fb74456a4fa444ad4e51f989a83",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
+          "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
+          "uuid": "2dae66a7-04-bd7a0ed96e4f41ce03ed5d5d1188f4ed5ade9f60",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/coding-denials-understanding-common-culprits-and-winning-strategies-to-avoid-them",
+          "urlHash": "3767fa2c3bd51348b6845e980e3b64fc188c1129",
+          "uuid": "3767fa2c-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/denials-central",
+          "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
+          "uuid": "788a7f1b-27-2a28edbd9f7aa62d4094b0cf0a7bd6298a9c2e5c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/optimizing-optometry-revenue-integrating-tech-for-better-practice-performance",
+          "urlHash": "9c455615bfd994d3667f57bebfff563314307154",
+          "uuid": "9c455615-09-e4b19310dc21beb752667c5dfa6c367b29683f2a",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/finding-the-formula-for-denials-webcast",
+          "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
+          "uuid": "bd37bec5-06-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
+          "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
+          "uuid": "43264845-07-316b65466da36b5a0717a876f596231b0bd82bd8",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/strategies-to-prevent-coding-denials-and-increase-revenues",
+          "urlHash": "a22db563714825ad108779f91e01418862cdf87b",
+          "uuid": "a22db563-04-feff516d0115e18d8ef03e1918c810828759d52c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/driving-dollars-through-data-an-innovative-way-to-improve-self-debt-collections",
+          "urlHash": "b8e2b6be342da74b6e6551fe15f5a0b6baa75c98",
+          "uuid": "b8e2b6be-04-feff516d0115e18d8ef03e1918c810828759d52c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
+          "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
+          "uuid": "61161d0c-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        }
+      ],
+      "target": "Form"
+    },
+    {
+      "name": "Hero",
+      "cluster": 69,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/who-we-are/our-story",
+          "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
+          "uuid": "12a06b00-13-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
+        }
+      ],
+      "target": "Hero"
+    },
+    {
+      "name": "new",
+      "cluster": 70,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
+          "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
+          "uuid": "2dae66a7-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
+          "section": "section-25"
+        }
+      ],
+      "target": "Form (newsletter)"
+    },
+    {
+      "name": "new",
+      "cluster": 72,
+      "instances": [
+        {
+          "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
+          "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
+          "uuid": "43264845-08-ae05e24e01ab28bd1b1f0fc33d88c81f8af1b94e",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[1]/div[2]"
+        }
+      ],
+      "target": "Form (fullwidth)"
     }
   ],
   "outliers": [
     {
       "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
       "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
-      "uuid": "001600b6-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
-      "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
-      "uuid": "001600b6-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/revspring-inc",
-      "urlHash": "001600b6fbb8ce92c976d26ccb38027435d9169f",
       "uuid": "001600b6-09-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
-      "urlHash": "07a37b6d9b6ebed011fcef9bb1ad9510fb8ebd02",
-      "uuid": "07a37b6d-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
-      "xpath": "/html[1]/body[1]/main[1]",
-      "section": "section-5"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/credentialing/credentialing-roi-calculator",
@@ -6696,19 +7009,6 @@
       "urlHash": "0a730f79f60077a322cfde48720cfd04bbf589f6",
       "uuid": "0a730f79-06-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
-      "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
-      "uuid": "0b0cc60e-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
-      "urlHash": "0b0cc60ecc3b1b153bb20b41ffeee94b5424899b",
-      "uuid": "0b0cc60e-07-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery",
@@ -6983,12 +7283,6 @@
     {
       "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
       "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
-      "uuid": "0ee843da-47-7f2b48272b5c2fb74456a4fa444ad4e51f989a83",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/no-surprises-act",
-      "urlHash": "0ee843da98f56d0568e6647b1fc732db0ae87ad7",
       "uuid": "0ee843da-49-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -7049,18 +7343,6 @@
     {
       "url": "https://www.trizettoprovider.com/who-we-are/our-story",
       "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
-      "uuid": "12a06b00-12-e4d3a169fd14562460ee1d5c2fd63f44d6cf768a",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]/div[2]/div[1]/div[1]/div[2]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/who-we-are/our-story",
-      "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
-      "uuid": "12a06b00-13-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/who-we-are/our-story",
-      "urlHash": "12a06b00a36192dfdf759f24a50dcb90de19cd71",
       "uuid": "12a06b00-15-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -7084,13 +7366,6 @@
       "uuid": "13951016-06-5f96d4f0a776056ff22dde477155521459ba13e1",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
       "section": "section-14"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/partnermarketplace",
-      "urlHash": "13951016e2c6d090bdb22f911aef3163a71eead1",
-      "uuid": "13951016-08-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
-      "section": "section-15"
     },
     {
       "url": "https://www.trizettoprovider.com/partnermarketplace",
@@ -7140,12 +7415,6 @@
       "urlHash": "1be9f869513fa92dfba9eca43aa3f1026ffc2c52",
       "uuid": "1be9f869-05-a2ab4396a8fe39fb22f1223db833c40fe62594b0",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/p[3]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/opt-out-preferences",
-      "urlHash": "1be9f869513fa92dfba9eca43aa3f1026ffc2c52",
-      "uuid": "1be9f869-06-405da020e6d2c645a39ebd0c14b20e4d06265d48",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/form[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/opt-out-preferences",
@@ -7606,21 +7875,8 @@
     {
       "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
       "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
-      "uuid": "2dae66a7-04-bd7a0ed96e4f41ce03ed5d5d1188f4ed5ade9f60",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
-      "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
       "uuid": "2dae66a7-05-feff516d0115e18d8ef03e1918c810828759d52c",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
-      "urlHash": "2dae66a7295eba31cc131fe40f1a219296e9ffc3",
-      "uuid": "2dae66a7-06-0dcd123e2956d4aa1b9de3f53d22af7e198a0ea6",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[6]",
-      "section": "section-25"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/five-steps-to-a-more-effective-denials-management-process",
@@ -7655,20 +7911,8 @@
     {
       "url": "https://www.trizettoprovider.com/resource-library/coding-denials-understanding-common-culprits-and-winning-strategies-to-avoid-them",
       "urlHash": "3767fa2c3bd51348b6845e980e3b64fc188c1129",
-      "uuid": "3767fa2c-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/coding-denials-understanding-common-culprits-and-winning-strategies-to-avoid-them",
-      "urlHash": "3767fa2c3bd51348b6845e980e3b64fc188c1129",
       "uuid": "3767fa2c-06-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
-      "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
-      "uuid": "37c4b460-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
@@ -7683,13 +7927,6 @@
       "uuid": "37c4b460-08-de6d526dbca9486c0a72c728b1b3532d12258889",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[3]",
       "section": "section-8"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
-      "urlHash": "37c4b4607f5388f5ad7b021d8b51f558ed49af2f",
-      "uuid": "37c4b460-09-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/rejection-and-denial-prevention",
@@ -7721,13 +7958,6 @@
     {
       "url": "https://www.trizettoprovider.com/solutions/patient-engagement/eligibility",
       "urlHash": "398435d97f0b8d492d0b9b9cca314fe3864b28d3",
-      "uuid": "398435d9-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/patient-engagement/eligibility",
-      "urlHash": "398435d97f0b8d492d0b9b9cca314fe3864b28d3",
       "uuid": "398435d9-12-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -7742,13 +7972,6 @@
       "urlHash": "3ab0708e44cb5f0c47dcd320c9a45e2871ae43b2",
       "uuid": "3ab0708e-05-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
-      "urlHash": "3b64ebb9468b6814bcc0592e172d8b40cd72eba1",
-      "uuid": "3b64ebb9-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/focus-solutions",
@@ -7798,13 +8021,6 @@
     {
       "url": "https://www.trizettoprovider.com/solutions/patient-engagement/prior-authorization",
       "urlHash": "41ea6fc55d78c481eafeb315342aa0a7a1b12d80",
-      "uuid": "41ea6fc5-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/patient-engagement/prior-authorization",
-      "urlHash": "41ea6fc55d78c481eafeb315342aa0a7a1b12d80",
       "uuid": "41ea6fc5-11-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -7831,12 +8047,6 @@
       "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
       "uuid": "43264845-06-6275a09c198824868a90c58f319e735bb9a87220",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
-      "urlHash": "4326484562c3808c189f7acfd824299bb7d7694f",
-      "uuid": "43264845-08-ae05e24e01ab28bd1b1f0fc33d88c81f8af1b94e",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[3]/div[1]/div[1]/div[2]"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/predictive-denials-in-action-an-expert-interview",
@@ -7875,13 +8085,6 @@
       "uuid": "4d858754-07-2cd4b05b044987822f4aa516fbb1d4d2b32b4c14",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[3]",
       "section": "section-8"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/patient-engagement/patient-payments",
-      "urlHash": "4d858754ffa08acc4b4d3ebddccfd5a05c5e8681",
-      "uuid": "4d858754-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/patient-engagement/patient-payments",
@@ -7966,13 +8169,6 @@
       "urlHash": "51efdacac27563a6539b294c70b65d71e8441ab2",
       "uuid": "51efdaca-11-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
-      "urlHash": "53f9499e96f90d75985c11ab29ab1dcd050a15bb",
-      "uuid": "53f9499e-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services",
@@ -8077,12 +8273,6 @@
       "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
       "uuid": "61161d0c-03-e571244482374834ab8d382213b3c6a4dae68844",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
-      "urlHash": "61161d0cb05a22e8b82237443a316bae6677c096",
-      "uuid": "61161d0c-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/leveraging-technology-to-personalize-the-patient-experience",
@@ -8193,13 +8383,6 @@
     {
       "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
       "urlHash": "70eed346696d56b6de8b074406b2338700300aa8",
-      "uuid": "70eed346-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/coding",
-      "urlHash": "70eed346696d56b6de8b074406b2338700300aa8",
       "uuid": "70eed346-09-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -8230,36 +8413,8 @@
     {
       "url": "https://www.trizettoprovider.com/marketplace/paa",
       "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
-      "uuid": "769076f3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/paa",
-      "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
-      "uuid": "769076f3-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/paa",
-      "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
       "uuid": "769076f3-09-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/ohmd",
-      "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
-      "uuid": "77eb57e2-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/ohmd",
-      "urlHash": "77eb57e2d7bdba0319275b5cbfb53e1c60675325",
-      "uuid": "77eb57e2-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/ohmd",
@@ -8328,12 +8483,6 @@
     {
       "url": "https://www.trizettoprovider.com/resource-library/denials-central",
       "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
-      "uuid": "788a7f1b-18-54e795847d2698af442d697abc3955fefc97414f",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[18]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/denials-central",
-      "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
       "uuid": "788a7f1b-19-2ea91bd582c224dcf3f7f3940b44f35cb87c60e4",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[20]/div[2]/div[1]/div[1]/div[1]"
     },
@@ -8370,12 +8519,6 @@
     {
       "url": "https://www.trizettoprovider.com/resource-library/denials-central",
       "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
-      "uuid": "788a7f1b-27-2a28edbd9f7aa62d4094b0cf0a7bd6298a9c2e5c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[22]/div[1]/div[1]/div[1]/div[2]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/denials-central",
-      "urlHash": "788a7f1b571d2b1b2352a981cd6e739367013f90",
       "uuid": "788a7f1b-31-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -8400,40 +8543,14 @@
     {
       "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
       "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
-      "uuid": "7edf790d-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
-      "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
-      "uuid": "7edf790d-10-ef4697d8ab1131e729cf3c58c78622c825ceabd9",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/who-we-serve/billing-services",
-      "urlHash": "7edf790d262e5620ff30c7a4c512825cf6c3e9a8",
       "uuid": "7edf790d-14-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/resources",
       "urlHash": "816fc301302663f561a257ceacc43af573fb7ea7",
-      "uuid": "816fc301-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resources",
-      "urlHash": "816fc301302663f561a257ceacc43af573fb7ea7",
       "uuid": "816fc301-03-e571244482374834ab8d382213b3c6a4dae68844",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[3]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resources",
-      "urlHash": "816fc301302663f561a257ceacc43af573fb7ea7",
-      "uuid": "816fc301-04-bd7a0ed96e4f41ce03ed5d5d1188f4ed5ade9f60",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-5"
     },
     {
       "url": "https://www.trizettoprovider.com/resources",
@@ -8556,22 +8673,8 @@
     {
       "url": "https://www.trizettoprovider.com/resources/payer-list",
       "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
-      "uuid": "8215eb1e-20-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
-      "section": "section-4"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resources/payer-list",
-      "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
       "uuid": "8215eb1e-22-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
-      "urlHash": "8b0748aaad8c8a6562e728fd58b7afe1a972f51b",
-      "uuid": "8b0748aa-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
@@ -8609,27 +8712,8 @@
     {
       "url": "https://www.trizettoprovider.com/contact-us",
       "urlHash": "8cdca41f74dca9b4ef3877b8abfbea4f9d1bd1da",
-      "uuid": "8cdca41f-07-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/contact-us",
-      "urlHash": "8cdca41f74dca9b4ef3877b8abfbea4f9d1bd1da",
       "uuid": "8cdca41f-09-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
-      "urlHash": "8e51b48449f6ed4607daf66ea01316e31401cf8b",
-      "uuid": "8e51b484-06-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
-      "urlHash": "8e51b48449f6ed4607daf66ea01316e31401cf8b",
-      "uuid": "8e51b484-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management",
@@ -8715,13 +8799,6 @@
     {
       "url": "https://www.trizettoprovider.com/solutions/credentialing",
       "urlHash": "9ad188a119801272a0bb2e23349c1e8e3730ab30",
-      "uuid": "9ad188a1-10-9d2112a2a1116776409a800a7c66b115bedc7e9b",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[11]",
-      "section": "section-5"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/credentialing",
-      "urlHash": "9ad188a119801272a0bb2e23349c1e8e3730ab30",
       "uuid": "9ad188a1-12-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -8787,12 +8864,6 @@
       "urlHash": "9c455615bfd994d3667f57bebfff563314307154",
       "uuid": "9c455615-08-9ac9704d8a132b3fea39b05019ed03e127eaaff1",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[5]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/optimizing-optometry-revenue-integrating-tech-for-better-practice-performance",
-      "urlHash": "9c455615bfd994d3667f57bebfff563314307154",
-      "uuid": "9c455615-09-e4b19310dc21beb752667c5dfa6c367b29683f2a",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[6]"
     },
     {
       "url": "https://www.trizettoprovider.com/resource-library/optimizing-optometry-revenue-integrating-tech-for-better-practice-performance",
@@ -8967,21 +9038,8 @@
     {
       "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery/denials-roi-calculator",
       "urlHash": "aafe94be13941af9d94e32d1681a0ec4fda7e034",
-      "uuid": "aafe94be-02-537891fbd27262d2dc4b84b6afdb15392f581f70",
-      "xpath": "/html[1]/body[1]/main[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/rejection-and-denials-management/denial-recovery/denials-roi-calculator",
-      "urlHash": "aafe94be13941af9d94e32d1681a0ec4fda7e034",
       "uuid": "aafe94be-04-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
-      "urlHash": "ab8b662df43a6bba83e64201a55d8025569ad7e7",
-      "uuid": "ab8b662d-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/deerhold-ltd",
@@ -9029,12 +9087,6 @@
     {
       "url": "https://www.trizettoprovider.com/resource-library/finding-the-formula-for-denials-webcast",
       "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
-      "uuid": "bd37bec5-06-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/resource-library/finding-the-formula-for-denials-webcast",
-      "urlHash": "bd37bec59e0e7cd8722d55096d518327b5373071",
       "uuid": "bd37bec5-08-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -9077,13 +9129,6 @@
     {
       "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
       "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
-      "uuid": "bdc8d6c1-10-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/nsight-health-inc",
-      "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
       "uuid": "bdc8d6c1-12-e7fbc65a00faebe10b8bd46a8c21bbf2efdaaf71",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]",
       "section": "section-4"
@@ -9093,13 +9138,6 @@
       "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
       "uuid": "bdc8d6c1-14-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
-      "urlHash": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81",
-      "uuid": "bdce99c3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
@@ -9277,13 +9315,6 @@
     {
       "url": "https://www.trizettoprovider.com/99-percent-club",
       "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
-      "uuid": "c9f166ca-05-f833a4a1caad14d5dac5ba8b0d0048db2f718cf3",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]",
-      "section": "section-5"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/99-percent-club",
-      "urlHash": "c9f166ca04df4e7661eac13245003957469d855b",
       "uuid": "c9f166ca-08-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
     },
@@ -9375,18 +9406,6 @@
       "urlHash": "db9e9238b7199b945ba710db8ee7f1b3aa2a9d4f",
       "uuid": "db9e9238-10-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/",
-      "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
-      "uuid": "dd6dfba1-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/",
-      "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
-      "uuid": "dd6dfba1-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
     },
     {
       "url": "https://www.trizettoprovider.com/",
@@ -9645,12 +9664,6 @@
     {
       "url": "https://www.trizettoprovider.com/solutions/analytics",
       "urlHash": "f7df8ebe2d48ff08b6bdaf162347078820a420b9",
-      "uuid": "f7df8ebe-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/analytics",
-      "urlHash": "f7df8ebe2d48ff08b6bdaf162347078820a420b9",
       "uuid": "f7df8ebe-06-5972d4055ddb3c637c61d89e847bc43f4322d057",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[4]/div[1]/img[1]"
     },
@@ -9687,13 +9700,6 @@
       "uuid": "f7e39bb2-07-2cd4b05b044987822f4aa516fbb1d4d2b32b4c14",
       "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[3]",
       "section": "section-8"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
-      "urlHash": "f7e39bb2f63639495f7dbf66b63a03d211bdbdc5",
-      "uuid": "f7e39bb2-08-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/claims-management/claim-payments",
