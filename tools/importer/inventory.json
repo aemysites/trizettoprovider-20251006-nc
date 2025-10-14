@@ -5655,35 +5655,6 @@
       ]
     },
     {
-      "name": "Hero",
-      "cluster": 38,
-      "source": "Hero",
-      "target": "Hero (CTA) (heroCTAAlignCenter)",
-      "key": "hero38",
-      "instances": [
-        {
-          "url": "https://www.trizettoprovider.com/solutions/claims-management",
-          "urlHash": "704a7b431c58608afcd929db81e3a1920c70b7de",
-          "uuid": "704a7b43-07-4ef78c0fb5cc769a2c6b8689568f9dda84e057c3",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/resources/payer-list",
-          "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
-          "uuid": "8215eb1e-20-9d82261bd1b7afe641fbcc151e4edd71e6787514",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
-          "section": "section-4"
-        },
-        {
-          "url": "https://www.trizettoprovider.com/solutions/credentialing",
-          "urlHash": "9ad188a119801272a0bb2e23349c1e8e3730ab30",
-          "uuid": "9ad188a1-10-9d2112a2a1116776409a800a7c66b115bedc7e9b",
-          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[11]",
-          "section": "section-5"
-        }
-      ]
-    },
-    {
       "name": "Columns",
       "cluster": 39,
       "source": "Columns block",
@@ -6706,6 +6677,26 @@
           "uuid": "13951016-08-9d82261bd1b7afe641fbcc151e4edd71e6787514",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
           "section": "section-15"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/claims-management",
+          "urlHash": "704a7b431c58608afcd929db81e3a1920c70b7de",
+          "uuid": "704a7b43-07-4ef78c0fb5cc769a2c6b8689568f9dda84e057c3",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/resources/payer-list",
+          "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
+          "uuid": "8215eb1e-20-9d82261bd1b7afe641fbcc151e4edd71e6787514",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[8]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/credentialing",
+          "urlHash": "9ad188a119801272a0bb2e23349c1e8e3730ab30",
+          "uuid": "9ad188a1-10-9d2112a2a1116776409a800a7c66b115bedc7e9b",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[11]",
+          "section": "section-5"
         }
       ],
       "target": "Hero (CTA) (alignCenter)"
