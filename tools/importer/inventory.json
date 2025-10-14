@@ -6789,6 +6789,13 @@
           "uuid": "816fc301-04-bd7a0ed96e4f41ce03ed5d5d1188f4ed5ade9f60",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]",
           "section": "section-5"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
+          "urlHash": "8b0748aaad8c8a6562e728fd58b7afe1a972f51b",
+          "uuid": "8b0748aa-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-4"
         }
       ],
       "target": "Heading"
@@ -8597,13 +8604,6 @@
       "urlHash": "8215eb1e1b7d440051a876471b3dbc3c5ef43d57",
       "uuid": "8215eb1e-22-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
-      "urlHash": "8b0748aaad8c8a6562e728fd58b7afe1a972f51b",
-      "uuid": "8b0748aa-06-0fd2e2d4eaf9342ea162282b351350871598ed9c",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-4"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/revenue-cycle-management-services/billing-services",
