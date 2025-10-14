@@ -6878,7 +6878,8 @@
           "uuid": "b8e2b6be-04-feff516d0115e18d8ef03e1918c810828759d52c",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[2]"
         }
-      ]
+      ],
+      "target": "Form"
     },
     {
       "name": "Hero",
