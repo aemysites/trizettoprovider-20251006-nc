@@ -3174,6 +3174,12 @@
           "urlHash": "dd6dfba198b60d6dcacddb8c1569a0e5cb6b649d",
           "uuid": "dd6dfba1-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/solutions/analytics",
+          "urlHash": "f7df8ebe2d48ff08b6bdaf162347078820a420b9",
+          "uuid": "f7df8ebe-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
         }
       ]
     },
@@ -9654,12 +9660,6 @@
       "urlHash": "f7c467ca9218ed725836717d94f2a3e557711550",
       "uuid": "f7c467ca-06-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/solutions/analytics",
-      "urlHash": "f7df8ebe2d48ff08b6bdaf162347078820a420b9",
-      "uuid": "f7df8ebe-02-74fcd2c621fcaa9ae9bcd431d9039be9d9684158",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[1]"
     },
     {
       "url": "https://www.trizettoprovider.com/solutions/analytics",
