@@ -6613,6 +6613,13 @@
           "uuid": "77eb57e2-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
           "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/paa",
+          "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
+          "uuid": "769076f3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
         }
       ]
     },
@@ -8288,13 +8295,6 @@
       "urlHash": "73d12d579bc6cc08e37da8e296538eba17792f5a",
       "uuid": "73d12d57-06-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/paa",
-      "urlHash": "769076f334bf3c37b7c48b4a1e1657cd28dd0b3f",
-      "uuid": "769076f3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/paa",
