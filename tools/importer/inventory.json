@@ -6614,6 +6614,13 @@
           "uuid": "bdc8d6c1-10-6663ae7b4f78f6660d731fe42e4a3a9645593497",
           "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
           "section": "section-2"
+        },
+        {
+          "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
+          "urlHash": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81",
+          "uuid": "bdce99c3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
+          "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
+          "section": "section-2"
         }
       ]
     },
@@ -9106,13 +9113,6 @@
       "urlHash": "bdc8d6c1aea85252d97859080d00309e5a816e71",
       "uuid": "bdc8d6c1-14-a507e040135207256fc0c4fd07f12510b5a9e729",
       "xpath": "/html[1]/body[1]/footer[1]"
-    },
-    {
-      "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
-      "urlHash": "bdce99c33348627dfe5a3a8b5c49655bc2b73c81",
-      "uuid": "bdce99c3-04-6663ae7b4f78f6660d731fe42e4a3a9645593497",
-      "xpath": "/html[1]/body[1]/main[1]/article[1]/div[1]/div[1]/div[1]/div[5]",
-      "section": "section-2"
     },
     {
       "url": "https://www.trizettoprovider.com/marketplace/vision-trends",
