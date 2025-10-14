@@ -5607,7 +5607,7 @@
       "name": "Hero",
       "cluster": 37,
       "source": "Hero",
-      "target": "Blockquote (blockquoteBlue)",
+      "target": "Blockquote (bgBlue)",
       "key": "hero37",
       "instances": [
         {
