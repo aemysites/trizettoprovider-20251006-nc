@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 
 
 .blockquote {
@@ -5,10 +6,13 @@
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  min-height: 420px;
-  padding: 48px 16px;
-  background: #0e2337 url('./media_10c52023fb31494b80382e1e3c91f6fe472724f58.jpg?width=2000&format=jpg&optimize=medium') center center / cover no-repeat;
+  min-height: 340px;
+  padding: 3.5rem 2rem;
+  background: url('./media_10c52023fb31494b80382e1e3c91f6fe472724f58.jpg?width=2000&format=jpg&optimize=medium') center/cover no-repeat;
   box-sizing: border-box;
+  position: relative;
+  border-radius: 20px;
+  overflow: hidden;
 }
 
 .blockquote picture,
@@ -23,17 +27,22 @@
 }
 
 .blockquote div {
-  background: rgb(15 28 51 / 69%);
-  border-radius: 16px;
+  background: none;
+  border-radius: 0;
   box-shadow: 0 6px 32px rgb(0 0 0 / 10%);
-  padding: 32px 40px;
-  max-width: 560px;
+  padding: 0 1.2rem;
+  max-width: 48%;
   width: 100%;
   box-sizing: border-box;
   margin: 0;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
+  flex: 1 1 0;
+  justify-content: center;
+  min-width: 0;
+  position: relative;
+  word-wrap: break-word;
 }
 
 .blockquote div p {
@@ -41,7 +50,7 @@
   font-size: 20px;
   line-height: 1.5;
   margin: 0 0 18px;
-  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
 .blockquote div p:last-child {
@@ -69,5 +78,97 @@
   .blockquote div {
     padding: 24px 16px;
     max-width: 98vw;
+  }
+}
+
+.blockquote::after {
+  /* Subtle blur overlay for text contrast */
+  content: "";
+  position: absolute;
+  inset: 0;
+  backdrop-filter: blur(2.5px);
+  z-index: 0;
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+/* Layout: two main columns, left (image) and right (text) */
+
+.blockquote div picture,
+.blockquote div img {
+  /* Hide the image if not present */
+  display: none;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Text column: further vertical stacking */
+.blockquote div div {
+  width: 100%;
+  max-width: 560px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+  position: relative;
+  z-index: 1;
+}
+
+/* Testimonial text styling */
+.blockquote div div p {
+  color: #fff;
+  font-size: 1.13rem;
+  font-weight: 400;
+  margin: 0 0 1em;
+  text-align: left;
+  line-height: 1.7;
+  text-shadow: 0 2px 14px rgb(20 32 45 / 19%);
+  letter-spacing: 0.01em;
+  background: none;
+  padding: 0 2.2em;
+  box-sizing: border-box;
+  border-radius: 0;
+}
+
+/* Attribution styling: visually distinct */
+.blockquote div div p:last-child {
+  color: #bdeaff;
+  font-size: 0.97rem;
+  font-weight: 400;
+  margin: 0.5em 0 0;
+  text-align: left;
+  letter-spacing: 0.01em;
+  text-shadow: 0 1px 7px rgb(20 32 45 / 9%);
+  background: none;
+  padding: 0 2.2em;
+  border-radius: 0;
+}
+
+/* Responsive stacking for smaller screens */
+@media (width <= 850px) {
+  .blockquote {
+    flex-direction: column;
+    min-height: 210px;
+    padding: 2rem 0.5rem 2.5rem;
+  }
+
+  .blockquote div {
+    max-width: 98vw;
+    padding: 0.5rem 0;
+  }
+
+  .blockquote div div {
+    max-width: 98vw;
+    padding: 0 0.2em;
+  }
+
+  .blockquote div div p,
+  .blockquote div div p:last-child {
+    padding: 0 0.5em;
+    font-size: 1rem;
   }
 }
