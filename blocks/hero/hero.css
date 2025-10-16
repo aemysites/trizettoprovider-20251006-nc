@@ -122,10 +122,6 @@
   }
 }
 
-
-/* Ensure the hero can span the entire width of the page */
-
-/* Core hero block layout: text and image side by side */
 .hero.hero29 {
   display: flex;
   flex-direction: row;
@@ -138,7 +134,6 @@
   background: none;
 }
 
-/* Hero text/content column (left side) */
 .hero.hero29 div:not(.picture) {
   flex: 1 1 0;
   display: flex;
@@ -148,11 +143,8 @@
   padding-left: 6vw;
   padding-right: 2vw;
   min-width: 0;
-
-  /* Visually center vertically and keep left alignment */
 }
 
-/* Headline styles */
 .hero.hero29 h1,
 .hero.hero29 h2 {
   color: #f5f5f5;
@@ -164,7 +156,6 @@
   text-align: left;
 }
 
-/* Hero image column (right side) */
 .hero.hero29 .picture {
   flex: 2 1 0;
   order: 2;
@@ -174,12 +165,10 @@
   position: relative;
 }
 
-/* Remove z-index per constraints */
 .hero .picture {
-  z-index: unset;
+  z-index: auto;
 }
 
-/* Image fills its column, maintains aspect ratio */
 .hero.hero29 .picture img {
   width: 100%;
   height: 100%;
@@ -187,7 +176,6 @@
   display: block;
 }
 
-/* Gradient overlay on the left, fading to transparent rightwards */
 .hero.hero29::after {
   position: absolute;
   left: 0;
@@ -205,7 +193,6 @@
   z-index: 1;
 }
 
-/* Responsive: Stack columns on mobile, use gradient downwards */
 @media (width <= 900px) {
   .hero.hero29 {
     flex-direction: column;
@@ -241,5 +228,99 @@
       rgb(28 75 168 / 52%) 60%, 
       rgb(28 75 168 / 0%) 100%
     );
+  }
+}
+
+
+/* HERO BLOCK LAYOUT */
+
+/* Ensure hero block fills the viewport width and stacks sections vertically */
+.hero.cta {
+  display: flex;
+  flex-direction: column;
+  min-height: 480px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background: var(--background-color);
+  box-sizing: border-box;
+}
+
+/* If the hero uses a background image and should be full width */
+
+/* Top section: image area or whitespace */
+.hero.cta .picture img {
+  display: block;
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove z-index from image container */
+
+/* Whitespace/middle section: fills the remaining vertical space */
+.hero.cta div:not(.button-container, :has(.button-container)) {
+  flex-grow: 1;
+  background: #fff;
+  min-height: 80px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Teal bar at the bottom: full width, no margin, centered vertically and horizontally */
+.hero.cta .button-container {
+  background: #00b3b3;
+  width: 100%;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border-radius: 0;
+}
+
+/* Vertically oriented white text inside the teal bar (no font-family override) */
+.hero.cta .button-container a.button {
+  color: #fff;
+  background: transparent;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-size: 2rem;
+  line-height: 1.1;
+  text-align: center;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  white-space: normal;
+  max-width: 90%;
+  max-height: 80px;
+  display: inline-block;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (width <= 700px) {
+  .hero.cta {
+    min-height: 220px;
+  }
+
+  .hero.cta .picture img {
+    height: 120px;
+  }
+
+  .hero.cta .button-container {
+    height: 54px;
+  }
+
+  .hero.cta .button-container a.button {
+    font-size: 1.1rem;
+    max-height: 46px;
   }
 }
