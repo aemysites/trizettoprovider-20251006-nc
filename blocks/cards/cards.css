@@ -306,103 +306,96 @@
 
 
 .cards.reveal {
-  background: #0f2a73 url("https://www.trizettoprovider.com/wp-content/uploads/2024/06/StaryBackground2.jpg?id=15575") center center / cover no-repeat;
+  /* Ensure section stretches edge-to-edge and full viewport height */
   margin: 0;
   padding: 0;
   width: 100vw;
   min-width: 100vw;
-  max-width: 100vw;
-  min-height: 60vh;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background: #0a2463 url('https://www.trizettoprovider.com/wp-content/uploads/2024/06/StaryBackground2.jpg?id=15575') center center / cover no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cards.reveal .cards-wrapper {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
   box-sizing: border-box;
   display: flex;
-  align-items: stretch;
-  justify-content: stretch;
-  position: relative;
-  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
 }
 
-/* Remove inner spacing/gutters from all direct descendants */
-.cards.reveal .cards-wrapper,
-.cards.reveal .block,
 .cards.reveal ul {
   margin: 0;
   padding: 0;
-  width: 100vw;
-  min-width: 100vw;
-  max-width: 100vw;
-  box-sizing: border-box;
-  background: none;
-}
-
-/* Use flex row to place cards side by side */
-.cards.reveal ul {
+  list-style: none;
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: stretch;
   justify-content: center;
-  width: 100vw;
-  min-height: 60vh;
-  background: none;
-  gap: 0;
-  box-sizing: border-box;
+  width: 100%;
+  gap: 2.5rem;
 }
 
-/* Each li flexes equally, but only non-empty cards are shown */
 .cards.reveal ul li {
-  flex: 1 1 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 0;
-  min-height: 0;
   margin: 0;
   padding: 0;
-  background: none;
   border: none;
+  background: none;
   box-shadow: none;
-}
-
-/* Hide empty card bodies so only content is visible */
-.cards.reveal .cards-card-body:empty {
-  display: none;
-}
-
-/* Make non-empty card body take full width and center content */
-.cards.reveal .cards-card-body {
+  border-radius: 0;
   display: flex;
-  align-items: center;
+  flex-direction: column;
   justify-content: center;
+  align-items: stretch;
+  min-width: 280px;
+  max-width: 420px;
+  width: 100%;
+}
+
+.cards.reveal .cards-card-body {
   background: none;
+  box-shadow: none;
   border: none;
+  border-radius: 0;
   margin: 0;
   padding: 0;
   width: 100%;
-  min-height: 260px;
-  box-sizing: border-box;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 320px;
 }
 
-/* Center paragraph text and improve readability */
-.cards.reveal .cards-card-body p {
-  margin: 0;
-  padding: 0;
+.cards.reveal .cards-card-body * {
   color: #fff;
-  font-size: var(--body-font-size-s);
-  line-height: 1.35;
   text-align: center;
-  text-shadow: 0 2px 16px rgb(15 42 115 / 50%), 0 0 2px #000;
-  width: 100%;
-  box-sizing: border-box;
+  text-shadow: 0 2px 20px rgb(12 36 99 / 24%), 0 0 2px #000;
+  margin: 0.6em 0;
 }
 
-/* Responsive: stack cards vertically on small screens */
+/* Responsive: Stack vertically on smaller screens */
 @media (width <= 900px) {
   .cards.reveal ul {
     flex-direction: column;
-    min-height: 40vh;
+    gap: 2rem;
+    align-items: center;
   }
 
-  .cards.reveal ul li,
+  .cards.reveal ul li {
+    min-width: 0;
+    max-width: 600px;
+    width: 100%;
+  }
+
   .cards.reveal .cards-card-body {
-    min-height: 140px;
+    min-height: 240px;
   }
 }
